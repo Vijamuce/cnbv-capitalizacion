@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Capitalización de las Instituciones Financieras en México</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #EDEAE1;
+    --surface: #FFFFFF;
+    --surface-2: #E3DECE;
+    --ink: #221F19;
+    --ink-2: #6C6455;
+    --line: #D8D1BD;
+    --accent: #8A6D2F;
+    --accent-2: #4A3B18;
+    --good: #3B7A5A;
+    --good-bg: #E3EEE6;
+    --watch: #B4761F;
+    --watch-bg: #F2E7D3;
+    --critical: #AE3B2E;
+    --critical-bg: #F3E1DD;
+    --neutral: #7A7364;
+    --neutral-bg: #E9E5D8;
+    --font-display: 'Cambria', 'Georgia', 'Times New Roman', ui-serif, serif;
+    --font-sans: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, ui-sans-serif, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17150F; --surface: #201D16; --surface-2: #2A2519;
+      --ink: #ECE6D8; --ink-2: #A69B87; --line: #3A3323;
+      --accent: #C9A24A; --accent-2: #E4C179;
+      --good: #5FA37B; --good-bg: #24352C;
+      --watch: #D79A4A; --watch-bg: #382C1C;
+      --critical: #D9645A; --critical-bg: #3A241F;
+      --neutral: #9A927E; --neutral-bg: #2A2519;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+  .page { max-width: 1120px; margin: 0 auto; padding: clamp(1.5rem, 4vw, 3.25rem) clamp(1.1rem, 4vw, 2rem) 4rem; }
+  header.top { display: flex; flex-direction: column; gap: 0.55rem; margin-bottom: clamp(1.25rem, 3vw, 1.75rem); max-width: 46rem; }
+  .eyebrow { font-size: 0.72rem; letter-spacing: 0.13em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+  h1 { font-family: var(--font-display); font-weight: 600; font-size: clamp(1.7rem, 3.6vw, 2.35rem); line-height: 1.15; margin: 0; text-wrap: balance; letter-spacing: -0.005em; }
+  .sub { color: var(--ink-2); font-size: 0.95rem; line-height: 1.55; margin: 0; }
+  .sector-tabs { display: flex; gap: 0.4rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
+  .sector-tabs button { font-family: inherit; font-size: 0.85rem; font-weight: 600; padding: 0.55rem 1rem; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--ink-2); cursor: pointer; display: flex; align-items: baseline; gap: 0.4rem; transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease; }
+  .sector-tabs button .count { font-size: 0.72rem; font-variant-numeric: tabular-nums; opacity: 0.75; }
+  .sector-tabs button:hover { color: var(--ink); }
+  .sector-tabs button[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .sector-tabs button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .summary { display: grid; grid-template-columns: repeat(3, 1fr) 1.4fr; gap: 0.75rem; margin-bottom: 1.5rem; }
+  @media (max-width: 760px) { .summary { grid-template-columns: 1fr 1fr; } }
+  .stat-tile { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 0.9rem 1.05rem; }
+  .stat-tile .label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-2); font-weight: 700; }
+  .stat-tile .num { font-family: var(--font-display); font-size: 1.55rem; margin-top: 0.2rem; font-variant-numeric: tabular-nums lining-nums; }
+  .stat-tile.freshness { display: flex; flex-direction: column; justify-content: center; gap: 0.3rem; }
+  .stat-tile.freshness .row { display: flex; justify-content: space-between; gap: 0.75rem; font-size: 0.78rem; }
+  .stat-tile.freshness .row .k { color: var(--ink-2); }
+  .stat-tile.freshness .row .v { font-weight: 600; font-variant-numeric: tabular-nums; text-align: right; }
+  .pulse-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--good); margin-right: 0.4rem; animation: pulse 2.4s ease-in-out infinite; }
+  @media (prefers-reduced-motion: reduce) { .pulse-dot { animation: none; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  .controls { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.85rem; flex-wrap: wrap; }
+  .search-wrap { position: relative; flex: 1 1 16rem; }
+  .search-wrap svg { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); width: 15px; height: 15px; stroke: var(--ink-2); }
+  #search { width: 100%; padding: 0.6rem 0.85rem 0.6rem 2.1rem; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font-size: 0.88rem; font-family: inherit; }
+  #search::placeholder { color: var(--ink-2); }
+  #search:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .hint { font-size: 0.76rem; color: var(--ink-2); white-space: nowrap; }
+  .result-count { font-size: 0.76rem; color: var(--ink-2); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .table-card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; }
+  .table-scroll { overflow-x: auto; max-height: 70vh; overflow-y: auto; }
+  table { width: 100%; border-collapse: collapse; min-width: 560px; }
+  thead th { position: sticky; top: 0; background: var(--surface-2); text-align: right; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-2); font-weight: 700; padding: 0.7rem 1rem; border-bottom: 1px solid var(--line); cursor: pointer; user-select: none; white-space: nowrap; }
+  thead th[data-align="left"] { text-align: left; }
+  thead th:hover { color: var(--ink); }
+  thead th .arrow { display: inline-block; margin-left: 0.25rem; opacity: 0; transition: opacity 0.1s ease; }
+  thead th.sorted .arrow { opacity: 1; color: var(--accent); }
+  thead th.sorted.desc .arrow::before { content: '↓'; }
+  thead th.sorted.asc .arrow::before { content: '↑'; }
+  thead th:not(.sorted) .arrow::before { content: '↓'; }
+  tbody td { padding: 0.6rem 1rem; text-align: right; font-size: 0.86rem; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums lining-nums; white-space: nowrap; }
+  tbody td[data-align="left"] { text-align: left; font-weight: 600; font-variant-numeric: normal; white-space: normal; min-width: 14rem; }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover td { background: var(--surface-2); }
+  .badge { display: inline-flex; align-items: center; justify-content: center; min-width: 1.6rem; padding: 0.2rem 0.45rem; border-radius: 999px; font-size: 0.72rem; font-weight: 700; }
+  .badge.cat-good { background: var(--good-bg); color: var(--good); }
+  .badge.cat-watch { background: var(--watch-bg); color: var(--watch); }
+  .badge.cat-critical { background: var(--critical-bg); color: var(--critical); }
+  .badge.cat-neutral { background: var(--neutral-bg); color: var(--neutral); cursor: help; }
+  .empty-row td { text-align: center; color: var(--ink-2); padding: 1.75rem 1rem; font-style: italic; }
+  .footnote { margin-top: 1.75rem; font-size: 0.8rem; color: var(--ink-2); line-height: 1.6; }
+  .footnote strong { color: var(--ink); }
+  .legend { display: flex; gap: 1.1rem; flex-wrap: wrap; margin: 0.75rem 0 1.1rem; }
+  .legend span { display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.78rem; }
+  .legend .dot { width: 8px; height: 8px; border-radius: 50%; }
+  .legend .dot.good { background: var(--good); }
+  .legend .dot.watch { background: var(--watch); }
+  .legend .dot.critical { background: var(--critical); }
+  .legend .dot.neutral { background: var(--neutral); }
+  .scope-note { margin-top: 1.1rem; padding: 0.85rem 1rem; border: 1px dashed var(--line); border-radius: 12px; font-size: 0.78rem; }
+  .aggregate-card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: clamp(1.5rem, 4vw, 2.25rem); display: flex; flex-direction: column; gap: 1.25rem; align-items: flex-start; }
+  .aggregate-card .big-num { font-family: var(--font-display); font-size: clamp(2.4rem, 6vw, 3.4rem); line-height: 1; font-variant-numeric: tabular-nums lining-nums; }
+  .aggregate-card .big-num-label { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-2); font-weight: 700; margin-top: 0.5rem; }
+  .aggregate-card p { margin: 0; color: var(--ink-2); font-size: 0.9rem; line-height: 1.6; max-width: 42rem; }
+  .aggregate-card .meta-row { display: flex; gap: 1.5rem; flex-wrap: wrap; font-size: 0.82rem; color: var(--ink-2); }
+  .aggregate-card .meta-row b { color: var(--ink); font-weight: 600; }
+  .loading { color: var(--ink-2); font-size: 0.85rem; padding: 2rem 1rem; text-align: center; }
+  a { color: var(--accent); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<div class="page">
+  <header class="top">
+    <span class="eyebrow">CNBV · Solvencia financiera</span>
+    <h1>Capitalización de las instituciones financieras en México</h1>
+    <p class="sub" id="sector-sub">El ICAP mide el capital de una institución frente a sus activos ponderados por riesgo: entre más alto, mayor su colchón para absorber pérdidas inesperadas.</p>
+  </header>
+
+  <div class="sector-tabs" id="sector-tabs" role="tablist"></div>
+  <div id="body-content"></div>
+
+  <div class="scope-note">
+    Esta página se actualiza automáticamente cada semana vía GitHub Actions, que revisa si la CNBV publicó boletines nuevos para cada sector. La mayoría de las semanas no hay cambios: la CNBV publica cifras mensuales, con varias semanas de rezago. <a href="https://github.com/Vijamuce/cnbv-capitalizacion" target="_blank" rel="noopener">Código y datos fuente en GitHub</a>.
+  </div>
+</div>
+
+<script>
+(function () {
+  const SECTOR_DEFS = {
+    bancos: {
+      label: 'Bancos', file: 'data/bancos.json', kind: 'table',
+      sub: 'El ICAP mide el capital de la banca múltiple frente a sus activos ponderados por riesgo. La CNBV exige un mínimo de 10.5% para operar sin medidas correctivas.',
+      indexLabel: 'ICAP del sistema',
+      columns: [
+        { key: 'name', label: 'Institución', type: 'string', align: 'left' },
+        { key: 'ccb', label: 'CCB %', type: 'number', fmt: r => fmtPct(r.ccb) },
+        { key: 'ccf', label: 'CCF %', type: 'number', fmt: r => fmtPct(r.ccf) },
+        { key: 'icap', label: 'ICAP %', type: 'number', fmt: r => fmtPct(r.icap) },
+        { key: 'cat', label: 'Categoría', type: 'badge', badgeClass: r => bancoCatClass(r.cat) }
+      ],
+      defaultSort: { key: 'icap', dir: 'desc' },
+      legend: [['good','Categoría I–II · capital suficiente'],['watch','Categoría III · vigilancia'],['critical','Categoría IV–V · acción correctiva']],
+      footnoteHtml: r => '<p><strong>ICAP</strong> = Capital Neto / Activos Ponderados Sujetos a Riesgo Total. <strong>CCB</strong> y <strong>CCF</strong> son sus componentes, de mayor a menor calidad de capital.</p><p>Fuente: <a href="' + r.source_url + '" target="_blank" rel="noopener">' + r.publicado + ', CNBV</a>.</p>'
+    },
+    sofipos: {
+      label: 'SOFIPOS', file: 'data/sofipos.json', kind: 'table',
+      sub: 'El NICAP mide el capital neto de las Sociedades Financieras Populares frente a su requerimiento total de capital por riesgos, agrupadas por federación supervisora.',
+      indexLabel: 'NICAP del sistema',
+      columns: [
+        { key: 'name', label: 'Sociedad', type: 'string', align: 'left' },
+        { key: 'fed', label: 'Federación', type: 'string', align: 'left' },
+        { key: 'capital', label: 'Capital neto (mdp)', type: 'number', fmt: r => fmtMoney(r.capital) },
+        { key: 'req', label: 'Requerimiento (mdp)', type: 'number', fmt: r => fmtMoney(r.req) },
+        { key: 'nicap', label: 'NICAP %', type: 'number', fmt: r => fmtPct(r.nicap) },
+        { key: 'cat', label: 'Categoría', type: 'badge', badgeClass: r => popularCatClass(r.cat) }
+      ],
+      defaultSort: { key: 'nicap', dir: 'desc' },
+      legend: [['good','Categoría 1–2 · capital suficiente'],['watch','Categoría 3 · vigilancia'],['critical','Categoría 4 · acción correctiva'],['neutral','Sin cifra este mes']],
+      footnoteHtml: r => '<p><strong>NICAP</strong> (Nivel de Capitalización) = Capital Neto / Requerimiento total de capital por riesgos. Debe ubicarse en 131% o más, según el propio boletín de la CNBV.</p><p>Fuente: <a href="' + r.source_url + '" target="_blank" rel="noopener">' + r.publicado + ', CNBV</a>.</p>'
+    },
+    socaps: {
+      label: 'SOCAPs', file: 'data/socaps.json', kind: 'table',
+      sub: 'El NICAP mide el capital neto de las Sociedades Cooperativas de Ahorro y Préstamo frente a su requerimiento total de capital por riesgos. Es el sector con más entidades.',
+      indexLabel: 'NICAP del sistema',
+      columns: [
+        { key: 'name', label: 'Sociedad', type: 'string', align: 'left' },
+        { key: 'capital', label: 'Capital neto (mdp)', type: 'number', fmt: r => fmtMoney(r.capital) },
+        { key: 'req', label: 'Requerimiento (mdp)', type: 'number', fmt: r => fmtMoney(r.req) },
+        { key: 'nicap', label: 'NICAP %', type: 'number', fmt: r => fmtPct(r.nicap) },
+        { key: 'cat', label: 'Categoría', type: 'badge', badgeClass: r => popularCatClass(r.cat) }
+      ],
+      defaultSort: { key: 'nicap', dir: 'desc' },
+      legend: [['good','Categoría 1–2 · capital suficiente'],['watch','Categoría 3 · vigilancia'],['critical','Categoría 4 · acción correctiva'],['neutral','Sin cifra este mes']],
+      footnoteHtml: r => '<p><strong>NICAP</strong> = Capital Neto / Requerimiento total de capital por riesgos, conforme a la LRASCAP. Debe superar 100%.</p><p>Fuente: <a href="' + r.source_url + '" target="_blank" rel="noopener">' + r.publicado + ', CNBV</a>.</p>'
+    },
+    casas_de_bolsa: {
+      label: 'Casas de Bolsa', file: 'data/casas_de_bolsa.json', kind: 'aggregate',
+      sub: 'El ICAP agregado del sistema de casas de bolsa. El desglose por institución no está disponible como texto: la CNBV lo publica como imagen dentro del comunicado.',
+    },
+    fintech: {
+      label: 'Fintech', file: 'data/fintech.json', kind: 'fintech',
+      sub: 'Instituciones de Tecnología Financiera (IFPE / IFC). La CNBV no publica un índice de capitalización recurrente por institución para este sector.',
+    }
+  };
+
+  const order = ['bancos', 'sofipos', 'socaps', 'casas_de_bolsa', 'fintech'];
+  const cache = {};
+  let activeSector = 'bancos';
+  let sortKey = null, sortDir = null;
+
+  const tabsEl = document.getElementById('sector-tabs');
+  const subEl = document.getElementById('sector-sub');
+  const bodyEl = document.getElementById('body-content');
+
+  function fmtPct(v) {
+    if (v === null || v === undefined) return '—';
+    return v.toLocaleString('es-MX', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + '%';
+  }
+  function fmtMoney(v) {
+    if (v === null || v === undefined) return '—';
+    return (v / 1e6).toLocaleString('es-MX', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  }
+  function bancoCatClass(cat) {
+    if (cat === null) return 'cat-neutral';
+    if (cat === 'I' || cat === 'II') return 'cat-good';
+    if (cat === 'III') return 'cat-watch';
+    return 'cat-critical';
+  }
+  function popularCatClass(cat) {
+    if (cat === null) return 'cat-neutral';
+    if (cat === '1' || cat === '2') return 'cat-good';
+    if (cat === '3') return 'cat-watch';
+    return 'cat-critical';
+  }
+  function normalize(s) {
+    return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  }
+  function fmtDate(iso) {
+    if (!iso) return '—';
+    const [y, m, d] = iso.split('-');
+    const meses = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+    return d + ' ' + meses[parseInt(m, 10) - 1] + ' ' + y;
+  }
+
+  function buildTabs() {
+    tabsEl.innerHTML = '';
+    order.forEach(id => {
+      const def = SECTOR_DEFS[id];
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.setAttribute('aria-selected', id === activeSector ? 'true' : 'false');
+      const countHtml = cache[id] && cache[id].rows ? ' <span class="count">' + cache[id].rows.length + '</span>' : '';
+      btn.innerHTML = def.label + countHtml;
+      btn.addEventListener('click', () => {
+        if (activeSector === id) return;
+        activeSector = id;
+        sortKey = null; sortDir = null;
+        buildTabs();
+        renderSector();
+      });
+      tabsEl.appendChild(btn);
+    });
+  }
+
+  async function loadSector(id) {
+    if (cache[id]) return cache[id];
+    const res = await fetch(SECTOR_DEFS[id].file + '?v=' + Date.now());
+    const data = await res.json();
+    cache[id] = data;
+    return data;
+  }
+
+  async function renderSector() {
+    const def = SECTOR_DEFS[activeSector];
+    subEl.textContent = def.sub;
+    bodyEl.innerHTML = '<div class="loading">Cargando…</div>';
+
+    const data = await loadSector(activeSector);
+    buildTabs();
+
+    if (def.kind === 'table') {
+      renderTableSector(def, data);
+    } else if (def.kind === 'aggregate') {
+      renderAggregateSector(def, data);
+    } else if (def.kind === 'fintech') {
+      renderFintechSector(def, data);
+    }
+  }
+
+  function renderTableSector(def, data) {
+    if (!sortKey) { sortKey = def.defaultSort.key; sortDir = def.defaultSort.dir; }
+
+    const minRow = data.min_regulatorio ? '<div class="stat-tile"><div class="label">Mínimo regulatorio</div><div class="num">' + data.min_regulatorio + '</div></div>' : '';
+
+    bodyEl.innerHTML =
+      '<div class="summary">' +
+        '<div class="stat-tile"><div class="label">' + def.indexLabel + '</div><div class="num">' + fmtPct(data.index) + '</div></div>' +
+        '<div class="stat-tile"><div class="label">Instituciones</div><div class="num">' + data.rows.length + '</div></div>' +
+        minRow +
+        '<div class="stat-tile freshness">' +
+          '<div class="row"><span class="k">Cifras al</span><span class="v">' + fmtDate(data.cifras) + '</span></div>' +
+          '<div class="row"><span class="k">CNBV</span><span class="v">' + data.publicado + '</span></div>' +
+          '<div class="row"><span class="k"><span class="pulse-dot"></span>Revisión</span><span class="v">Semanal</span></div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="controls">' +
+        '<div class="search-wrap"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>' +
+        '<input type="text" id="search" placeholder="Buscar institución…" autocomplete="off"></div>' +
+        '<span class="result-count" id="result-count"></span>' +
+        '<span class="hint">Toca una columna para ordenar</span>' +
+      '</div>' +
+      '<div class="table-card"><div class="table-scroll"><table id="data-table"><thead id="table-head"></thead><tbody id="table-body"></tbody></table></div></div>' +
+      '<div class="footnote" id="footnote"></div>';
+
+    document.getElementById('footnote').innerHTML =
+      '<div class="legend">' + def.legend.map(([cls, label]) => '<span><span class="dot ' + cls + '"></span>' + label + '</span>').join('') + '</div>' +
+      def.footnoteHtml(data);
+
+    const searchInput = document.getElementById('search');
+    const resultCount = document.getElementById('result-count');
+    const theadEl = document.getElementById('table-head');
+    const tbodyEl = document.getElementById('table-body');
+
+    function buildHead() {
+      theadEl.innerHTML = '';
+      const tr = document.createElement('tr');
+      def.columns.forEach(col => {
+        const th = document.createElement('th');
+        th.dataset.key = col.key;
+        if (col.align === 'left') th.dataset.align = 'left';
+        th.innerHTML = col.label + '<span class="arrow"></span>';
+        if (col.key === sortKey) th.classList.add('sorted', sortDir);
+        th.addEventListener('click', () => {
+          if (sortKey === col.key) sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+          else { sortKey = col.key; sortDir = col.type === 'number' ? 'desc' : 'asc'; }
+          buildHead(); renderRows();
+        });
+        tr.appendChild(th);
+      });
+      theadEl.appendChild(tr);
+    }
+
+    function renderRows() {
+      const query = normalize(searchInput.value.trim());
+      const sorted = [...data.rows].sort((a, b) => {
+        let av = a[sortKey], bv = b[sortKey];
+        if (av === null || av === undefined) return 1;
+        if (bv === null || bv === undefined) return -1;
+        if (typeof av === 'string') { av = av.toLowerCase(); bv = bv.toLowerCase(); }
+        if (av < bv) return sortDir === 'asc' ? -1 : 1;
+        if (av > bv) return sortDir === 'asc' ? 1 : -1;
+        return 0;
+      });
+      tbodyEl.innerHTML = '';
+      let shown = 0;
+      sorted.forEach(row => {
+        if (query && !normalize(row.name).includes(query)) return;
+        shown++;
+        const tr = document.createElement('tr');
+        def.columns.forEach(col => {
+          const td = document.createElement('td');
+          if (col.align === 'left') td.dataset.align = 'left';
+          if (col.type === 'badge') {
+            const cls = col.badgeClass(row);
+            const label = row[col.key] === null ? 'S/D' : row[col.key];
+            const span = document.createElement('span');
+            span.className = 'badge ' + cls;
+            span.textContent = label;
+            if (row[col.key] === null) span.title = 'La CNBV no publicó cifra de esta institución para este periodo';
+            td.appendChild(span);
+          } else if (col.fmt) {
+            td.textContent = col.fmt(row);
+          } else {
+            td.textContent = row[col.key] == null ? '—' : row[col.key];
+          }
+          tr.appendChild(td);
+        });
+        tbodyEl.appendChild(tr);
+      });
+      if (shown === 0) {
+        const tr = document.createElement('tr');
+        tr.className = 'empty-row';
+        const td = document.createElement('td');
+        td.colSpan = def.columns.length;
+        td.textContent = 'Ninguna institución coincide con “' + searchInput.value + '”.';
+        tr.appendChild(td);
+        tbodyEl.appendChild(tr);
+      }
+      resultCount.textContent = shown + (shown === 1 ? ' institución' : ' instituciones');
+    }
+
+    searchInput.addEventListener('input', renderRows);
+    buildHead();
+    renderRows();
+  }
+
+  function renderAggregateSector(def, data) {
+    bodyEl.innerHTML =
+      '<div class="aggregate-card">' +
+        '<div><div class="big-num">' + fmtPct(data.index) + '</div><div class="big-num-label">ICAP del sistema · casas de bolsa</div></div>' +
+        '<div class="meta-row">' +
+          '<span>Cifras al <b>' + fmtDate(data.cifras) + '</b></span>' +
+          '<span>Publicado: <b>' + data.publicado + '</b></span>' +
+          '<span>Mínimo regulatorio: <b>' + data.min_regulatorio + '</b></span>' +
+        '</div>' +
+        '<p>' + data.note + '</p>' +
+        '<p><a href="' + data.source_url + '" target="_blank" rel="noopener">Ver comunicado fuente en la CNBV →</a></p>' +
+      '</div>';
+  }
+
+  function renderFintechSector(def, data) {
+    bodyEl.innerHTML =
+      '<div class="aggregate-card">' +
+        '<div><div class="big-num" style="font-size: clamp(1.6rem, 4vw, 2.2rem);">' + fmtDate(data.report_date) + '</div><div class="big-num-label">Último reporte conocido de la CNBV</div></div>' +
+        '<div class="meta-row">' +
+          '<span>Periodo cubierto: <b>' + data.period_covered + '</b></span>' +
+          '<span>Última revisión automática: <b>' + fmtDate(data.last_checked) + '</b></span>' +
+        '</div>' +
+        '<p>' + data.note + '</p>' +
+        '<p><a href="' + data.source_url + '" target="_blank" rel="noopener">Ver reporte fuente →</a></p>' +
+      '</div>';
+  }
+
+  buildTabs();
+  renderSector();
+})();
+</script>
+</body>
+</html>

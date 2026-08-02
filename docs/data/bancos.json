@@ -1,0 +1,380 @@
+{
+  "cifras": "2026-05-31",
+  "publicado": "17 jul 2026 · Comunicado 14",
+  "source_url": "https://www.gob.mx/cnbv/prensa/indice-de-capitalizacion-de-la-banca-multiple-al-cierre-de-mayo-de-2026?idiom=es",
+  "index": 20.47,
+  "min_regulatorio": "10.5%",
+  "rows": [
+    {
+      "name": "Banco Bineo",
+      "ccb": 272.51,
+      "ccf": 272.51,
+      "icap": 272.51,
+      "cat": "I"
+    },
+    {
+      "name": "Credit Suisse",
+      "ccb": 237.68,
+      "ccf": 237.68,
+      "icap": 237.68,
+      "cat": "I"
+    },
+    {
+      "name": "Banco S3",
+      "ccb": 177.31,
+      "ccf": 177.31,
+      "icap": 177.31,
+      "cat": "I"
+    },
+    {
+      "name": "Revolut Bank",
+      "ccb": 162.07,
+      "ccf": 162.07,
+      "icap": 162.07,
+      "cat": "I"
+    },
+    {
+      "name": "Pagatodo",
+      "ccb": 106.2,
+      "ccf": 106.2,
+      "icap": 106.2,
+      "cat": "I"
+    },
+    {
+      "name": "Mizuho Bank",
+      "ccb": 77.91,
+      "ccf": 77.91,
+      "icap": 77.91,
+      "cat": "I"
+    },
+    {
+      "name": "Banfeliz",
+      "ccb": 74.26,
+      "ccf": 74.26,
+      "icap": 74.26,
+      "cat": "I"
+    },
+    {
+      "name": "BNP Paribas México",
+      "ccb": 62.14,
+      "ccf": 62.14,
+      "icap": 62.14,
+      "cat": "I"
+    },
+    {
+      "name": "KEB Hana México",
+      "ccb": 45.11,
+      "ccf": 45.11,
+      "icap": 45.14,
+      "cat": "I"
+    },
+    {
+      "name": "J.P. Morgan",
+      "ccb": 45.01,
+      "ccf": 45.01,
+      "icap": 45.01,
+      "cat": "I"
+    },
+    {
+      "name": "MUFG Bank",
+      "ccb": 44.31,
+      "ccf": 44.31,
+      "icap": 44.31,
+      "cat": "I"
+    },
+    {
+      "name": "Shinhan",
+      "ccb": 42.52,
+      "ccf": 42.52,
+      "icap": 42.52,
+      "cat": "I"
+    },
+    {
+      "name": "Bank of China",
+      "ccb": 42.09,
+      "ccf": 42.09,
+      "icap": 42.13,
+      "cat": "I"
+    },
+    {
+      "name": "Compartamos",
+      "ccb": 31.91,
+      "ccf": 31.91,
+      "icap": 31.91,
+      "cat": "I"
+    },
+    {
+      "name": "Volkswagen Bank",
+      "ccb": 29.52,
+      "ccf": 29.52,
+      "icap": 29.52,
+      "cat": "I"
+    },
+    {
+      "name": "ICBC",
+      "ccb": 27.8,
+      "ccf": 20.63,
+      "icap": 27.8,
+      "cat": "I"
+    },
+    {
+      "name": "Dondé Banco",
+      "ccb": 26.34,
+      "ccf": 26.34,
+      "icap": 26.34,
+      "cat": "I"
+    },
+    {
+      "name": "Citi México",
+      "ccb": 25.97,
+      "ccf": 25.97,
+      "icap": 25.97,
+      "cat": "I"
+    },
+    {
+      "name": "Bansí",
+      "ccb": 24.92,
+      "ccf": 24.92,
+      "icap": 24.92,
+      "cat": "I"
+    },
+    {
+      "name": "Openbank",
+      "ccb": 24.91,
+      "ccf": 24.91,
+      "icap": 24.91,
+      "cat": "I"
+    },
+    {
+      "name": "Intercam Banco",
+      "ccb": 24.56,
+      "ccf": 24.56,
+      "icap": 24.56,
+      "cat": "I"
+    },
+    {
+      "name": "Banamex",
+      "ccb": 21.24,
+      "ccf": 18.89,
+      "icap": 24.54,
+      "cat": "I"
+    },
+    {
+      "name": "Barclays",
+      "ccb": 24.09,
+      "ccf": 24.09,
+      "icap": 24.09,
+      "cat": "I"
+    },
+    {
+      "name": "Inbursa",
+      "ccb": 23.32,
+      "ccf": 23.32,
+      "icap": 23.32,
+      "cat": "I"
+    },
+    {
+      "name": "Ualá",
+      "ccb": 22.52,
+      "ccf": 22.52,
+      "icap": 22.52,
+      "cat": "I"
+    },
+    {
+      "name": "Banco Base",
+      "ccb": 22.01,
+      "ccf": 22.01,
+      "icap": 22.01,
+      "cat": "I"
+    },
+    {
+      "name": "Banca Mifel",
+      "ccb": 21.07,
+      "ccf": 16.11,
+      "icap": 21.11,
+      "cat": "I"
+    },
+    {
+      "name": "Scotiabank",
+      "ccb": 20.6,
+      "ccf": 17.99,
+      "icap": 20.6,
+      "cat": "I"
+    },
+    {
+      "name": "BBVA México",
+      "ccb": 16.9,
+      "ccf": 16.9,
+      "icap": 20.33,
+      "cat": "I"
+    },
+    {
+      "name": "HSBC",
+      "ccb": 13.57,
+      "ccf": 13.57,
+      "icap": 20.04,
+      "cat": "I"
+    },
+    {
+      "name": "Monex",
+      "ccb": 19.85,
+      "ccf": 19.85,
+      "icap": 19.85,
+      "cat": "I"
+    },
+    {
+      "name": "Santander",
+      "ccb": 15.1,
+      "ccf": 13.87,
+      "icap": 19.33,
+      "cat": "I"
+    },
+    {
+      "name": "Banorte",
+      "ccb": 18.69,
+      "ccf": 12.3,
+      "icap": 19.09,
+      "cat": "I"
+    },
+    {
+      "name": "Bank of America",
+      "ccb": 18.76,
+      "ccf": 18.76,
+      "icap": 18.76,
+      "cat": "I"
+    },
+    {
+      "name": "Banco Plata",
+      "ccb": 18.31,
+      "ccf": 18.31,
+      "icap": 18.31,
+      "cat": "I"
+    },
+    {
+      "name": "Actinver",
+      "ccb": 17.88,
+      "ccf": 17.88,
+      "icap": 17.88,
+      "cat": "I"
+    },
+    {
+      "name": "Inmobiliario Mexicano",
+      "ccb": 12.45,
+      "ccf": 12.45,
+      "icap": 15.77,
+      "cat": "I"
+    },
+    {
+      "name": "Multiva",
+      "ccb": 12.74,
+      "ccf": 12.74,
+      "icap": 15.56,
+      "cat": "I"
+    },
+    {
+      "name": "Afirme",
+      "ccb": 11.52,
+      "ccf": 10.5,
+      "icap": 15.55,
+      "cat": "I"
+    },
+    {
+      "name": "Invex",
+      "ccb": 15.39,
+      "ccf": 15.39,
+      "icap": 15.39,
+      "cat": "I"
+    },
+    {
+      "name": "Ve por Más",
+      "ccb": 15.25,
+      "ccf": 15.25,
+      "icap": 15.25,
+      "cat": "I"
+    },
+    {
+      "name": "Banregio",
+      "ccb": 15.2,
+      "ccf": 15.2,
+      "icap": 15.2,
+      "cat": "I"
+    },
+    {
+      "name": "BIAfirme",
+      "ccb": 10.32,
+      "ccf": 10.32,
+      "icap": 15.11,
+      "cat": "I"
+    },
+    {
+      "name": "Banco Azteca",
+      "ccb": 14.41,
+      "ccf": 14.41,
+      "icap": 14.87,
+      "cat": "I"
+    },
+    {
+      "name": "Banco del Bajío",
+      "ccb": 14.76,
+      "ccf": 14.76,
+      "icap": 14.76,
+      "cat": "I"
+    },
+    {
+      "name": "Sabadell",
+      "ccb": 14.25,
+      "ccf": 14.25,
+      "icap": 14.35,
+      "cat": "I"
+    },
+    {
+      "name": "BanCoppel",
+      "ccb": 14.19,
+      "ccf": 14.19,
+      "icap": 14.19,
+      "cat": "I"
+    },
+    {
+      "name": "Consubanco",
+      "ccb": 14.13,
+      "ccf": 10.41,
+      "icap": 14.13,
+      "cat": "I"
+    },
+    {
+      "name": "Hey Banco",
+      "ccb": 13.97,
+      "ccf": 13.97,
+      "icap": 13.97,
+      "cat": "I"
+    },
+    {
+      "name": "Bancrea",
+      "ccb": 10.98,
+      "ccf": 10.42,
+      "icap": 13.45,
+      "cat": "I"
+    },
+    {
+      "name": "Covalto",
+      "ccb": 13.33,
+      "ccf": 13.33,
+      "icap": 13.33,
+      "cat": "I"
+    },
+    {
+      "name": "Kapital",
+      "ccb": 13.15,
+      "ccf": 13.15,
+      "icap": 13.15,
+      "cat": "I"
+    },
+    {
+      "name": "Bankaool",
+      "ccb": 11.46,
+      "ccf": 11.46,
+      "icap": 11.46,
+      "cat": "I"
+    }
+  ]
+}

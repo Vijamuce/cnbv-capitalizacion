@@ -1,0 +1,1080 @@
+{
+  "cifras": "2026-05-31",
+  "publicado": "Corte 1 jul 2026",
+  "source_url": "https://portafolioinfo.cnbv.gob.mx/PortafolioInformacion/NICAP_SOCAPS_202605.pdf",
+  "index": 295.21,
+  "min_regulatorio": ">100%",
+  "rows": [
+    {
+      "name": "Seficroc, S.C. de A.P. de R.L. de C.V.",
+      "capital": 4475369,
+      "req": 75823,
+      "nicap": 5902.39,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Magdalena, S.C. de A.P. de R.L. de C.V.",
+      "capital": 25286225,
+      "req": 1825211,
+      "nicap": 1385.39,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Xochitlán, S.C. de A.P. de R.L. de C.V.",
+      "capital": 15413828,
+      "req": 1146481,
+      "nicap": 1344.45,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Elota, S.C. de A.P. de R.L. de C.V.",
+      "capital": 13783641,
+      "req": 1161861,
+      "nicap": 1186.34,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Campesina Santa María Amealco, S.C. de A.P. de R.L. de C.V.",
+      "capital": 15706308,
+      "req": 1587872,
+      "nicap": 989.14,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Ejidos de Xalisco, S.C. de A.P. de R.L. de C.V.",
+      "capital": 27309034,
+      "req": 2822761,
+      "nicap": 967.46,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Dolores Hidalgo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 953011401,
+      "req": 111574489,
+      "nicap": 854.15,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Minatitlan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 66085516,
+      "req": 8748574,
+      "nicap": 755.39,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular San Miguel de Allende, S.C. de A.P. de R.L. de C.V.",
+      "capital": 292457506,
+      "req": 38994636,
+      "nicap": 749.99,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Padre Epifanio Padilla de Tangamandapio, S.C. de A.P. de R.L. de C.V.",
+      "capital": 80038364,
+      "req": 11121893,
+      "nicap": 719.65,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular San Jose Iturbide, S.C. de A.P. de R.L. de C.V.",
+      "capital": 547069097,
+      "req": 76113892,
+      "nicap": 718.75,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Epitacio Huerta, S.C. de A.P. de R.L. de C.V.",
+      "capital": 175735172,
+      "req": 24982598,
+      "nicap": 703.43,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Leon Franco de Rioverde, S.L.P. S.C. de A.P. de R.L.de C.V.",
+      "capital": 353600429,
+      "req": 51639924,
+      "nicap": 684.74,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Dos Rios, S.C. de A.P. de R.L. de C.V.",
+      "capital": 30820611,
+      "req": 4565982,
+      "nicap": 675.01,
+      "cat": "1"
+    },
+    {
+      "name": "Coopdesarrollo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 1734929092,
+      "req": 257453589,
+      "nicap": 673.88,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Purépero, S.C. de A.P. de R.L.",
+      "capital": 185063290,
+      "req": 29268161,
+      "nicap": 632.3,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Maravatío, S.C. de A.P. de R.L. de C.V.",
+      "capital": 147087095,
+      "req": 23462436,
+      "nicap": 626.9,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria San Gabriel, S.C. de A.P. de R.L. de C.V.",
+      "capital": 77266580,
+      "req": 12569556,
+      "nicap": 614.71,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Apaseo el Alto, S.C. de A.P. de R.L. de C.V.",
+      "capital": 1302022284,
+      "req": 211875179,
+      "nicap": 614.52,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Tepoztlán, S.C. de A.P. de R.L. de C.V.",
+      "capital": 39520844,
+      "req": 6467130,
+      "nicap": 611.1,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria el Limón, S.C. de A.P. de R.L. de C.V.",
+      "capital": 55723097,
+      "req": 9212944,
+      "nicap": 604.83,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Ciudad Hidalgo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 56413118,
+      "req": 9437221,
+      "nicap": 597.77,
+      "cat": "1"
+    },
+    {
+      "name": "Jesus Maria Montaño, S.C. de A.P. de R.L. de C.V.",
+      "capital": 186927954,
+      "req": 31575996,
+      "nicap": 591.99,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Lachao, S.C. de A.P. de R.L. de C.V.",
+      "capital": 57972477,
+      "req": 9867948,
+      "nicap": 587.48,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria San Miguel Huimilpan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 79255599,
+      "req": 14033102,
+      "nicap": 564.78,
+      "cat": "1"
+    },
+    {
+      "name": "La Caja Solidaria de Teocaltiche, S.C. de A.P. de R.L. de C.V.",
+      "capital": 58237917,
+      "req": 10472710,
+      "nicap": 556.09,
+      "cat": "1"
+    },
+    {
+      "name": "El Rosario, S.C. de A.P. de R.L. de C.V.",
+      "capital": 89688696,
+      "req": 16136593,
+      "nicap": 555.81,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria San Dionisio Ocotepec, S.C. de A.P. de R.L. de C.V.",
+      "capital": 33187326,
+      "req": 5979181,
+      "nicap": 555.05,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Jose Carrillo Garcia, S.C. de A.P. de R.L. de C.V.",
+      "capital": 42865031,
+      "req": 8047331,
+      "nicap": 532.66,
+      "cat": "1"
+    },
+    {
+      "name": "Caja de Ahorros Tepeyac, S.C. de A.P. de R.L. de C.V.",
+      "capital": 117280828,
+      "req": 22046320,
+      "nicap": 531.97,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Acapiotzin, S.C. de A.P. de R.L. de C.V.",
+      "capital": 3193771,
+      "req": 602912,
+      "nicap": 529.72,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Costa Alegre, S.C. de A.P. de R.L. de C.V.",
+      "capital": 14630427,
+      "req": 2772134,
+      "nicap": 527.77,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Nueva Atemajac del Valle, S.C. de A.P. de R.L. de C.V.",
+      "capital": 8543149,
+      "req": 1668336,
+      "nicap": 512.08,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Casa de Ahorro Campesino, S.C. de A.P. de R.L. de C.V.",
+      "capital": 37230791,
+      "req": 7298934,
+      "nicap": 510.09,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular San Rafael, S.C. de A.P. de R.L. de C.V.",
+      "capital": 1204942167,
+      "req": 240250205,
+      "nicap": 501.54,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Ten Apatz Tzotzob, S.C. de A.P. de R.L. de C.V.",
+      "capital": 52401201,
+      "req": 10716284,
+      "nicap": 488.99,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular los Reyes, S.C. de A.P. de R.L. de C.V.",
+      "capital": 708174069,
+      "req": 149113927,
+      "nicap": 474.92,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Comonfort, S.C. de A.P. de R.L. de C.V.",
+      "capital": 137799618,
+      "req": 29243538,
+      "nicap": 471.21,
+      "cat": "1"
+    },
+    {
+      "name": "Esperanza Indigena Zapoteca, S.C. de A.P. de R.L. de C.V.",
+      "capital": 39399885,
+      "req": 8505778,
+      "nicap": 463.21,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Sierra de San Juan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 36622046,
+      "req": 7952946,
+      "nicap": 460.48,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Aguascalientes, S.C. de A.P. de R.L. de C.V.",
+      "capital": 14264192,
+      "req": 3107270,
+      "nicap": 459.06,
+      "cat": "1"
+    },
+    {
+      "name": "Sistemas de Proyectos Organizados en Comunidad, S.C. de A.P. de R.L. de C.V.",
+      "capital": 8414792,
+      "req": 1840382,
+      "nicap": 457.23,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Real del Potosí, S.C. de A.P. de R.L. de C.V.",
+      "capital": 2532926581,
+      "req": 558010406,
+      "nicap": 453.92,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Rosario, S.C. de A.P. de R.L. de C.V.",
+      "capital": 262264356,
+      "req": 58518104,
+      "nicap": 448.18,
+      "cat": "1"
+    },
+    {
+      "name": "Fondo Solidario del Frente Democrático Campesino, S.C. DE A.P. DE R.L. DE C.V.",
+      "capital": 11969933,
+      "req": 2675613,
+      "nicap": 447.37,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Tala, S.C. de A.P. de R.L. de C.V.",
+      "capital": 7147363,
+      "req": 1603298,
+      "nicap": 445.79,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Tomatlan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 62721438,
+      "req": 14115314,
+      "nicap": 444.35,
+      "cat": "1"
+    },
+    {
+      "name": "Unión de Servicios Allende, S.C. de A.P. de R.L. de C.V.",
+      "capital": 222092783,
+      "req": 50513316,
+      "nicap": 439.67,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Nuevo México, S.C. de A.P. de R.L. de C.V.",
+      "capital": 101405884,
+      "req": 23517900,
+      "nicap": 431.19,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Progreso Garcia, S.C. de A.P. de R.L. de C.V.",
+      "capital": 51910710,
+      "req": 12120074,
+      "nicap": 428.3,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa de Ahorro Y Prestamo Caja Popular Atemajac, S.C. de A.P. de R.L. de C.V.",
+      "capital": 291874132,
+      "req": 68930476,
+      "nicap": 423.43,
+      "cat": "1"
+    },
+    {
+      "name": "Caja San Nicolas, S.C. de A.P. de R.L. de C.V.",
+      "capital": 873723672,
+      "req": 210402500,
+      "nicap": 415.26,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Talpense, S.C. de A.P. de R.L. de C.V.",
+      "capital": 40775055,
+      "req": 9928206,
+      "nicap": 410.7,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa San Andrés Coyutla, S.C. de A.P. de R.L. de C.V.",
+      "capital": 95675732,
+      "req": 24011667,
+      "nicap": 398.46,
+      "cat": "1"
+    },
+    {
+      "name": "Progreso de Vicente Guerrero, S.C. de A.P. de R.L. de C.V.",
+      "capital": 150142329,
+      "req": 37931734,
+      "nicap": 395.82,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Itzaez, S.C. de A.P. de R.L. de C.V.",
+      "capital": 22822012,
+      "req": 5830737,
+      "nicap": 391.41,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Tzaulan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 44077849,
+      "req": 11473671,
+      "nicap": 384.17,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Santa Maria de Guadalupe, S.C. de A.P. de R.L. de C.V.",
+      "capital": 81389300,
+      "req": 21766605,
+      "nicap": 373.92,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular San Jose de Tlajomulco, S.C. de A.P. de R.L. de C.V.",
+      "capital": 244452396,
+      "req": 65406220,
+      "nicap": 373.74,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Jose Ma. Mercado, S.C. de A.P. de R.L. de C.V.",
+      "capital": 347633291,
+      "req": 93712161,
+      "nicap": 370.96,
+      "cat": "1"
+    },
+    {
+      "name": "Sakatekapan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 11055997,
+      "req": 3001487,
+      "nicap": 368.35,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Cortazar, S.C. de A.P. de R.L. de C.V.",
+      "capital": 204481962,
+      "req": 55883302,
+      "nicap": 365.91,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular 15 de Mayo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 362370846,
+      "req": 99247462,
+      "nicap": 365.12,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria la Huerta, S.C. de A.P. de R.L. de C.V.",
+      "capital": 64153860,
+      "req": 17624572,
+      "nicap": 364.0,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Jose Ma. Velasco, S.C. de A.P. de R.L. de C.V.",
+      "capital": 77993528,
+      "req": 21435676,
+      "nicap": 363.85,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Guachinango, S.C. de A.P. de R.L. de C.V.",
+      "capital": 233121552,
+      "req": 64323778,
+      "nicap": 362.42,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Kafen Tomin, S.C. de A.P. de R.L. de C.V.",
+      "capital": 26206127,
+      "req": 7388685,
+      "nicap": 354.68,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Tamazula, S.C. de A.P. de R.L. de C.V.",
+      "capital": 723953850,
+      "req": 206976212,
+      "nicap": 349.78,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Dr. Arroyo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 61198586,
+      "req": 17730670,
+      "nicap": 345.16,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Yolomecatl, S.C. de A.P. de R.L. de C.V.",
+      "capital": 71151691,
+      "req": 20663808,
+      "nicap": 344.33,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Polotitlan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 44366967,
+      "req": 12952853,
+      "nicap": 342.53,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Tuxca, S.C. de A.P. de R.L. de C.V.",
+      "capital": 7987531,
+      "req": 2354230,
+      "nicap": 339.28,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Gonzalo Vega, S.C. de A.P. de R.L. de C.V.",
+      "capital": 1434396481,
+      "req": 424209476,
+      "nicap": 338.13,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Tata Vasco, S.C. de A.P. de R.L. de C.V.",
+      "capital": 125710666,
+      "req": 37962242,
+      "nicap": 331.15,
+      "cat": "1"
+    },
+    {
+      "name": "IFR Tlapanaltomin, S.C. de A.P. de R.L. de C.V.",
+      "capital": 13792604,
+      "req": 4172755,
+      "nicap": 330.54,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Coroneo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 9879283,
+      "req": 3006739,
+      "nicap": 328.57,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Chavinda, S.C. de A.P. de R.L. de C.V.",
+      "capital": 182566149,
+      "req": 57159040,
+      "nicap": 319.4,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Oblatos, S.C. de R.L. de C.V.",
+      "capital": 740554305,
+      "req": 234421538,
+      "nicap": 315.91,
+      "cat": "1"
+    },
+    {
+      "name": "Caja de Ahorro de los Telefonistas, S.C. de A.P. de R.L. de C.V.",
+      "capital": 4390995306,
+      "req": 1393091753,
+      "nicap": 315.2,
+      "cat": "1"
+    },
+    {
+      "name": "Caja La Sagrada Familia, S.C. de A.P. de R.L. de C.V.",
+      "capital": 230489008,
+      "req": 73452493,
+      "nicap": 313.79,
+      "cat": "1"
+    },
+    {
+      "name": "Caja San Isidro, S.C. de A.P. de R.L. de C.V.",
+      "capital": 11558520,
+      "req": 3687029,
+      "nicap": 313.49,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Sahuayo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 168970977,
+      "req": 54108950,
+      "nicap": 312.28,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Lagunillas, S.C. de A.P. de R.L. de C.V.",
+      "capital": 180519517,
+      "req": 57905996,
+      "nicap": 311.75,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Regional Serrana, S.C. de A.P. de R.L. de C.V.",
+      "capital": 77585624,
+      "req": 24905772,
+      "nicap": 311.52,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Fray Juan Calero, S.C. de A.P. de R.L. de C.V.",
+      "capital": 173361650,
+      "req": 55905494,
+      "nicap": 310.1,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Suljaa, S.C. de A.P. de R.L. de C.V.",
+      "capital": 54339657,
+      "req": 17552335,
+      "nicap": 309.59,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular las Huastecas, S.C. de A.P. de R.L. de C.V.",
+      "capital": 601141048,
+      "req": 196223875,
+      "nicap": 306.35,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria San Sebastian del Oeste, S.C. de A.P. de R.L. de C.V.",
+      "capital": 14695125,
+      "req": 4900110,
+      "nicap": 299.89,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Chiquiliztli, S.C. de A.P. de R.L. de C.V.",
+      "capital": 60905282,
+      "req": 20456755,
+      "nicap": 297.73,
+      "cat": "1"
+    },
+    {
+      "name": "Caja la Guadalupana, S.C. de A.P. de R.L. de C.V.",
+      "capital": 74197396,
+      "req": 25028821,
+      "nicap": 296.45,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Nuevo Ideal, S.C. de A.P. de R.L. de C.V.",
+      "capital": 385809782,
+      "req": 131005021,
+      "nicap": 294.5,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa San Juan Bautista de San Juan del Rio, Qro., S.C. de A.P. de R.L. de C.V.",
+      "capital": 21955255,
+      "req": 7495804,
+      "nicap": 292.9,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Morelia Valladolid, S.C. de A.P. de R.L. de C.V.",
+      "capital": 2444426733,
+      "req": 841807935,
+      "nicap": 290.38,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Cerano, S.C. de A.P. de R.L. de C.V.",
+      "capital": 1085937289,
+      "req": 374871422,
+      "nicap": 289.68,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Florencio Rosas de Queretaro, S.C. de A.P. de R.L. de C.V.",
+      "capital": 223764265,
+      "req": 78779163,
+      "nicap": 284.04,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Manzanillo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 39417494,
+      "req": 14076108,
+      "nicap": 280.03,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Valle de Guadalupe, S.C. de A.P. de R.L. de C.V.",
+      "capital": 123253115,
+      "req": 44489067,
+      "nicap": 277.04,
+      "cat": "1"
+    },
+    {
+      "name": "Caja de Ahorro Santiaguito, S.C. de A.P. de R.L. de C.V.",
+      "capital": 14214444,
+      "req": 5135799,
+      "nicap": 276.77,
+      "cat": "1"
+    },
+    {
+      "name": "FINAGAM, S.C. de A.P. de R.L. de C.V.",
+      "capital": 483470432,
+      "req": 175490268,
+      "nicap": 275.5,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Cristobal Colon, S.C. de A.P. de R.L. de C.V.",
+      "capital": 1166204229,
+      "req": 425229493,
+      "nicap": 274.25,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Tepic, S.C. de A.P. de R.L. de C.V.",
+      "capital": 14525587,
+      "req": 5309729,
+      "nicap": 273.57,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular San Pablo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 489639106,
+      "req": 179105415,
+      "nicap": 273.38,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular de Ahorros Yanga, S.C. de A.P. de R.L. de C.V.",
+      "capital": 318084234,
+      "req": 119388603,
+      "nicap": 266.43,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Sur de Jalisco, S.C. de A.P. de R.L. de C.V.",
+      "capital": 72748738,
+      "req": 27358549,
+      "nicap": 265.91,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Teocelo, S.C. de A.P. de R.L. de C.V.",
+      "capital": 21036449,
+      "req": 7951149,
+      "nicap": 264.57,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular 9 de Agosto Salamanca, S.C. de A.P. de R.L. de C.V.",
+      "capital": 126462470,
+      "req": 47928130,
+      "nicap": 263.86,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Sta. Margarita Ma. de Alacoque, S.C. de A.P. de R.L. de C.V.",
+      "capital": 36479806,
+      "req": 13833113,
+      "nicap": 263.71,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria San Miguel de Cruces, S.C. de A.P. de R.L. de C.V.",
+      "capital": 31139554,
+      "req": 11843623,
+      "nicap": 262.92,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular la Providencia, S.C.L. de C.V.",
+      "capital": 542335501,
+      "req": 206339221,
+      "nicap": 262.84,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Pio XII, S.C. de A.P. de R.L. de C.V.",
+      "capital": 366124106,
+      "req": 139784186,
+      "nicap": 261.92,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Nuestra Señora de Tonaya, S.C. de A.P. de R.L. de C.V.",
+      "capital": 19892383,
+      "req": 7664067,
+      "nicap": 259.55,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Cihualpilli de Tonalá, S.C. de A.P. de R.L. de C.V.",
+      "capital": 185296664,
+      "req": 72466186,
+      "nicap": 255.7,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Santa María del Oro, S.C. de A.P. de R.L. de C.V.",
+      "capital": 44608038,
+      "req": 17607771,
+      "nicap": 253.34,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Inmaculada, S.C. de A.P. de R.L. de C.V.",
+      "capital": 405088365,
+      "req": 160621661,
+      "nicap": 252.2,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Puente de Camotlan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 17377859,
+      "req": 6921534,
+      "nicap": 251.07,
+      "cat": "1"
+    },
+    {
+      "name": "Fesolidaridad, S.C. de A.P. de R.L. de C.V.",
+      "capital": 15646145,
+      "req": 6339229,
+      "nicap": 246.81,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Buenos Aires, S.C. de A.P. de R.L. de C.V.",
+      "capital": 279609597,
+      "req": 113822563,
+      "nicap": 245.65,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Peñitas, S.C. de A.P. de R.L. de C.V.",
+      "capital": 73034488,
+      "req": 29784321,
+      "nicap": 245.21,
+      "cat": "1"
+    },
+    {
+      "name": "Caja de Ahorros Unifam, S.C. de A.P. de R.L. de C.V.",
+      "capital": 36723247,
+      "req": 15138827,
+      "nicap": 242.58,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular San José de Casimiro, S.C. de A.P. de R.L. de C.V.",
+      "capital": 108708044,
+      "req": 44930811,
+      "nicap": 241.95,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Santa María, S.C. de A.P. de R.L. de C.V.",
+      "capital": 6563828,
+      "req": 2715790,
+      "nicap": 241.69,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Arturo Marquez Aguilar, S.C. de A.P. de R.L. de C.V.",
+      "capital": 43750393,
+      "req": 18169167,
+      "nicap": 240.79,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Villanueva, S.C. de A.P. de R.L. de C.V.",
+      "capital": 105633382,
+      "req": 44148481,
+      "nicap": 239.27,
+      "cat": "1"
+    },
+    {
+      "name": "Cooperativa Acreimex, S.C. de A.P. de R.L. de C.V.",
+      "capital": 1672071436,
+      "req": 701646685,
+      "nicap": 238.31,
+      "cat": "1"
+    },
+    {
+      "name": "Red Eco de la Montaña, S.C. de A.P. de R.L. de C.V.",
+      "capital": 107832465,
+      "req": 45261401,
+      "nicap": 238.24,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Galeana, S.C. de A.P. de R.L. de C.V.",
+      "capital": 31958298,
+      "req": 13471001,
+      "nicap": 237.24,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Zapotitlan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 20048078,
+      "req": 8570427,
+      "nicap": 233.92,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Depac Poblana, SC de AP de RL de CV",
+      "capital": 57808355,
+      "req": 24757483,
+      "nicap": 233.5,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Fama, S.C. de A.P. de R.L. de C.V.",
+      "capital": 24081364,
+      "req": 10363975,
+      "nicap": 232.36,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Mexicana, S.C. de A.P. de R.L. de C.V.",
+      "capital": 17761874103,
+      "req": 7660843104,
+      "nicap": 231.85,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular San Bernardino de Siena Valladolid, S.C. de A.P. de R.L. de C.V.",
+      "capital": 9814989,
+      "req": 4401046,
+      "nicap": 223.01,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Agustin de Iturbide, S.C. de A.P. de R.L. de C.V.",
+      "capital": 320872395,
+      "req": 147050813,
+      "nicap": 218.21,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Mitras, S.C. de A.P. de R.L. de C.V.",
+      "capital": 142135038,
+      "req": 65146251,
+      "nicap": 218.18,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Hipódromo, S.C. de R.L. de C.V.",
+      "capital": 707205113,
+      "req": 332963062,
+      "nicap": 212.4,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Smg, S.C. de A.P. de R.L. de C.V.",
+      "capital": 477976900,
+      "req": 231836542,
+      "nicap": 206.17,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular la Merced, S.C. de A.P. de R.L de C.V.",
+      "capital": 31609541,
+      "req": 15342545,
+      "nicap": 206.03,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Cerro de la Silla, S.C. de A.P. de R.L. de C.V.",
+      "capital": 94661653,
+      "req": 46386209,
+      "nicap": 204.07,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Santuario Guadalupano, S.C. de A.P. de R.L. de C.V.",
+      "capital": 58856107,
+      "req": 29587748,
+      "nicap": 198.92,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Nueva Galicia, S.C. de A.P. de R.L. de C.V.",
+      "capital": 24749929,
+      "req": 12448768,
+      "nicap": 198.81,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Santiago Apostol, S.C. de A.P. de R.L. de C.V.",
+      "capital": 232518420,
+      "req": 122106998,
+      "nicap": 190.42,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Tecuala, S.C. de A.P. de R.L. de C.V.",
+      "capital": 31180846,
+      "req": 16521306,
+      "nicap": 188.73,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Cuautitlan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 6095317,
+      "req": 3232467,
+      "nicap": 188.57,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Zongolica, S.C. de A.P. de R.L. de C.V.",
+      "capital": 69747531,
+      "req": 37428851,
+      "nicap": 186.35,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Cristo Rey, S.C. de A.P. de R.L. de C.V.",
+      "capital": 9464126,
+      "req": 5103547,
+      "nicap": 185.44,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Yuriria, S.C. de A.P. de R.L. de C.V.",
+      "capital": 8289275,
+      "req": 4478145,
+      "nicap": 185.11,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Jala, S.C. de A.P. de R.L. de C.V.",
+      "capital": 80026729,
+      "req": 43637278,
+      "nicap": 183.39,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Inmaculada Concepción de la Huerta, S.C. de A.P. de R.L. de C.V.",
+      "capital": 169140394,
+      "req": 92387552,
+      "nicap": 183.08,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Popular Juventino Rosas, S.C. de A.P. de R.L. de C.V.",
+      "capital": 211809542,
+      "req": 119665970,
+      "nicap": 177.0,
+      "cat": "1"
+    },
+    {
+      "name": "Tosepantomin, S.C. de A.P. de R.L. de C.V.",
+      "capital": 182445249,
+      "req": 104413822,
+      "nicap": 174.73,
+      "cat": "1"
+    },
+    {
+      "name": "Caja Solidaria Tecolotlan, S.C. de A.P. de R.L. de C.V.",
+      "capital": 19777475,
+      "req": 12475325,
+      "nicap": 158.53,
+      "cat": "1"
+    },
+    {
+      "name": "Unidos por el Progreso de Sayula, S.C. de A.P. de R.L. de C.V.",
+      "capital": -8034461,
+      "req": 4595716,
+      "nicap": -174.83,
+      "cat": "4"
+    },
+    {
+      "name": "Caja Solidaria Santiago Papasquiaro, S.C. de A.P. de R.L. de C.V.",
+      "capital": null,
+      "req": null,
+      "nicap": null,
+      "cat": null
+    },
+    {
+      "name": "Caja Popular San Juan Bosco, S.C. de A.P. de R.L. de C.V.",
+      "capital": null,
+      "req": null,
+      "nicap": null,
+      "cat": null
+    }
+  ]
+}

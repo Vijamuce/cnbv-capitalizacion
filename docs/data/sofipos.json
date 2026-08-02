@@ -1,0 +1,289 @@
+{
+  "cifras": "2026-05-31",
+  "publicado": "Corte 28 jul 2026",
+  "source_url": "https://portafolioinfo.cnbv.gob.mx/PortafolioInformacion/ICAP_SOFIPOS_202605.pdf",
+  "index": 197.78,
+  "min_regulatorio": "131%",
+  "rows": [
+    {
+      "name": "Crediclub",
+      "capital": null,
+      "req": null,
+      "nicap": null,
+      "cat": null,
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Opciones Empresariales",
+      "capital": null,
+      "req": null,
+      "nicap": null,
+      "cat": null,
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Súmate",
+      "capital": 84869859,
+      "req": 9586952,
+      "nicap": 885.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Grensa",
+      "capital": 5119829,
+      "req": 817963,
+      "nicap": 626.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Credicapital",
+      "capital": 124389725,
+      "req": 20886342,
+      "nicap": 596.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Finsocial",
+      "capital": 5774953,
+      "req": 1371026,
+      "nicap": 421.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "KU-BO",
+      "capital": 184885173,
+      "req": 65934537,
+      "nicap": 280.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Finamigo",
+      "capital": 129510825,
+      "req": 49246433,
+      "nicap": 263.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Klar",
+      "capital": 1149151494,
+      "req": 758484635,
+      "nicap": 152.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Fondeadora",
+      "capital": 100318880,
+      "req": 70737359,
+      "nicap": 142.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Libertad",
+      "capital": null,
+      "req": null,
+      "nicap": null,
+      "cat": null,
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Acción y Evolución",
+      "capital": null,
+      "req": null,
+      "nicap": null,
+      "cat": null,
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Ictineo",
+      "capital": 42514279,
+      "req": 294159,
+      "nicap": 14453.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Porvenir",
+      "capital": 5749039,
+      "req": 110416,
+      "nicap": 5207.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Financiera Más",
+      "capital": 29470413,
+      "req": 726004,
+      "nicap": 4059.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Unagra",
+      "capital": 284244888,
+      "req": 81914197,
+      "nicap": 347.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "F Broxel",
+      "capital": 55267893,
+      "req": 20026760,
+      "nicap": 276.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Nu México",
+      "capital": 7553143874,
+      "req": 4061142187,
+      "nicap": 186.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Fincomún",
+      "capital": 512735711,
+      "req": 319562989,
+      "nicap": 160.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Financiera Sustentable",
+      "capital": 2933376929,
+      "req": 2238721044,
+      "nicap": 131.0,
+      "cat": "1",
+      "fed": "Fine servicios"
+    },
+    {
+      "name": "Unete",
+      "capital": 44196792,
+      "req": 13480745,
+      "nicap": 328.0,
+      "cat": "1",
+      "fed": "Fortaleza Social"
+    },
+    {
+      "name": "Operaciones de tu Lado",
+      "capital": 41163950,
+      "req": 20426074,
+      "nicap": 202.0,
+      "cat": "1",
+      "fed": "Fortaleza Social"
+    },
+    {
+      "name": "Paso Seguro",
+      "capital": 7545251,
+      "req": 4845257,
+      "nicap": 156.0,
+      "cat": "1",
+      "fed": "Fortaleza Social"
+    },
+    {
+      "name": "Capital Activo",
+      "capital": 63474265,
+      "req": 41383668,
+      "nicap": 153.0,
+      "cat": "1",
+      "fed": "Fortaleza Social"
+    },
+    {
+      "name": "Stori",
+      "capital": 1242382837,
+      "req": 908063325,
+      "nicap": 137.0,
+      "cat": "1",
+      "fed": "Fortaleza Social"
+    },
+    {
+      "name": "SAE",
+      "capital": 89933617,
+      "req": 66596182,
+      "nicap": 135.0,
+      "cat": "1",
+      "fed": "Fortaleza Social"
+    },
+    {
+      "name": "Impulso",
+      "capital": 24738148,
+      "req": 31863,
+      "nicap": 77638.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "TRAFALGAR",
+      "capital": 42470016,
+      "req": 709651,
+      "nicap": 5985.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Sofiexpress",
+      "capital": 1637575907,
+      "req": 76278559,
+      "nicap": 2147.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Premo",
+      "capital": 286097689,
+      "req": 45849456,
+      "nicap": 624.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Monte de Piedad",
+      "capital": 923478433,
+      "req": 176439541,
+      "nicap": 523.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Tamazula",
+      "capital": 71483979,
+      "req": 29335597,
+      "nicap": 244.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Progressa",
+      "capital": 157636716,
+      "req": 94778083,
+      "nicap": 166.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Multiplica",
+      "capital": 27232869,
+      "req": 19567330,
+      "nicap": 139.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Caja Bienestar",
+      "capital": 156187343,
+      "req": 116887157,
+      "nicap": 134.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    }
+  ]
+}

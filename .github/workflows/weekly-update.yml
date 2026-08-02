@@ -1,0 +1,75 @@
+name: Revisión semanal CNBV
+
+on:
+  schedule:
+    - cron: "0 14 * * 1"  # lunes 8:00 a.m. hora de Monterrey (UTC-6)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.git-check.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar poppler-utils (pdftotext)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ejecutar revisión
+        run: python3 scripts/update.py
+
+      - name: Ver si algo cambió
+        id: git-check
+        run: |
+          if [ -n "$(git status --porcelain docs/data)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit y push si hay cambios
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config user.name "cnbv-update-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          git commit -m "Actualiza datos CNBV ($(date -u +%Y-%m-%d))"
+          git push
+
+  deploy-pages:
+    needs: update-data
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
