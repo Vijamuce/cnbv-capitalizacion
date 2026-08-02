@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 14 * * 1"  # lunes 8:00 a.m. hora de Monterrey (UTC-6)
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["docs/**"]
 
 permissions:
   contents: write
@@ -16,6 +19,7 @@ concurrency:
 
 jobs:
   update-data:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.git-check.outputs.changed }}
@@ -53,6 +57,7 @@ jobs:
 
   deploy-pages:
     needs: update-data
+    if: always() && (needs.update-data.result == 'success' || needs.update-data.result == 'skipped')
     runs-on: ubuntu-latest
     environment:
       name: github-pages
