@@ -1,87 +1,87 @@
 {
-  "cifras": "2026-06-30",
-  "publicado": "Corte 14 Sep 2026",
-  "source_url": "https://portafolioinfo.cnbv.gob.mx/PortafolioInformacion/ICAP_SOFIPOS_202606.pdf",
+  "cifras": "2026-07-31",
+  "publicado": "Corte 05 Oct 2026",
+  "source_url": "https://portafolioinfo.cnbv.gob.mx/PortafolioInformacion/ICAP_SOFIPOS_202607.pdf",
   "index": 197.78,
   "min_regulatorio": "131%",
   "rows": [
     {
       "name": "Súmate",
-      "capital": 83652982,
-      "req": 9317444,
-      "nicap": 898.0,
+      "capital": 82229844,
+      "req": 9220772,
+      "nicap": 892.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
     {
       "name": "Credicapital",
-      "capital": 125262449,
-      "req": 21464412,
-      "nicap": 584.0,
-      "cat": "1",
-      "fed": "Atlántico Pacífico"
-    },
-    {
-      "name": "Grensa",
-      "capital": 4284029,
-      "req": 761735,
-      "nicap": 562.0,
+      "capital": 126559370,
+      "req": 21481972,
+      "nicap": 589.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
     {
       "name": "Finsocial",
-      "capital": 6553640,
-      "req": 1347581,
-      "nicap": 486.0,
+      "capital": 6716788,
+      "req": 1351970,
+      "nicap": 497.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Grensa",
+      "capital": 3053815,
+      "req": 733583,
+      "nicap": 416.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
     {
       "name": "Crediclub",
-      "capital": 1346582324,
-      "req": 344777511,
-      "nicap": 391.0,
-      "cat": "1",
-      "fed": "Atlántico Pacífico"
-    },
-    {
-      "name": "Ku-Bo",
-      "capital": 169211542,
-      "req": 62209133,
-      "nicap": 272.0,
+      "capital": 1338457853,
+      "req": 340590295,
+      "nicap": 393.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
     {
       "name": "Finamigo",
-      "capital": 123528752,
-      "req": 50940095,
-      "nicap": 242.0,
+      "capital": 130793902,
+      "req": 51042507,
+      "nicap": 256.0,
+      "cat": "1",
+      "fed": "Atlántico Pacífico"
+    },
+    {
+      "name": "Ku-Bo",
+      "capital": 148358652,
+      "req": 59026283,
+      "nicap": 251.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
     {
       "name": "Fondeadora",
-      "capital": 132665483,
-      "req": 77995566,
-      "nicap": 170.0,
+      "capital": 127062677,
+      "req": 80023322,
+      "nicap": 159.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
     {
       "name": "Klar",
-      "capital": 1111656577,
-      "req": 775749082,
-      "nicap": 143.0,
+      "capital": 1119626832,
+      "req": 803424531,
+      "nicap": 139.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
     {
       "name": "Opciones Empresariales",
-      "capital": 216008337,
-      "req": 164100814,
-      "nicap": 132.0,
+      "capital": 232035264,
+      "req": 174339495,
+      "nicap": 133.0,
       "cat": "1",
       "fed": "Atlántico Pacífico"
     },
@@ -95,193 +95,193 @@
     },
     {
       "name": "Ictineo",
-      "capital": 40009876,
-      "req": 191272,
-      "nicap": 20918.0,
+      "capital": 42292051,
+      "req": 268670,
+      "nicap": 15741.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Porvenir",
-      "capital": 5736702,
-      "req": 107275,
-      "nicap": 5348.0,
+      "capital": 5779008,
+      "req": 100991,
+      "nicap": 5722.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Financiera Más",
-      "capital": 28229612,
-      "req": 661084,
-      "nicap": 4270.0,
+      "capital": 27353066,
+      "req": 690449,
+      "nicap": 3962.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Unagra",
-      "capital": 284149236,
-      "req": 81004677,
-      "nicap": 351.0,
+      "capital": 281993565,
+      "req": 88748833,
+      "nicap": 318.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "F Broxel",
-      "capital": 52484886,
-      "req": 20659764,
-      "nicap": 254.0,
+      "capital": 48615810,
+      "req": 21423147,
+      "nicap": 227.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Nu México",
-      "capital": 7477221586,
-      "req": 4018715243,
-      "nicap": 186.0,
+      "capital": 7205974904,
+      "req": 4065279789,
+      "nicap": 177.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Fincomún",
-      "capital": 511202252,
-      "req": 317994239,
-      "nicap": 161.0,
+      "capital": 465255155,
+      "req": 313466359,
+      "nicap": 148.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Libertad",
-      "capital": 457166847,
-      "req": 342909911,
-      "nicap": 133.0,
+      "capital": 458870381,
+      "req": 342414024,
+      "nicap": 134.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Financiera Sustentable",
-      "capital": 3053596237,
-      "req": 2303500223,
+      "capital": 3129462691,
+      "req": 2352656893,
       "nicap": 133.0,
       "cat": "1",
       "fed": "Fine servicios"
     },
     {
       "name": "Unete",
-      "capital": 44524215,
-      "req": 13590236,
-      "nicap": 328.0,
-      "cat": "1",
-      "fed": "Fortaleza Social"
-    },
-    {
-      "name": "Paso Seguro",
-      "capital": 8574287,
-      "req": 4652751,
-      "nicap": 184.0,
+      "capital": 44779712,
+      "req": 13884568,
+      "nicap": 323.0,
       "cat": "1",
       "fed": "Fortaleza Social"
     },
     {
       "name": "Operaciones de tu Lado",
-      "capital": 42785405,
-      "req": 23319258,
-      "nicap": 183.0,
+      "capital": 43712577,
+      "req": 22880111,
+      "nicap": 191.0,
+      "cat": "1",
+      "fed": "Fortaleza Social"
+    },
+    {
+      "name": "Paso Seguro",
+      "capital": 8713328,
+      "req": 4691504,
+      "nicap": 186.0,
       "cat": "1",
       "fed": "Fortaleza Social"
     },
     {
       "name": "Capital Activo",
-      "capital": 63370436,
-      "req": 40293369,
-      "nicap": 157.0,
+      "capital": 64584736,
+      "req": 40926708,
+      "nicap": 158.0,
       "cat": "1",
       "fed": "Fortaleza Social"
     },
     {
       "name": "Stori",
-      "capital": 1221788570,
-      "req": 900605994,
-      "nicap": 136.0,
+      "capital": 1310196839,
+      "req": 909985441,
+      "nicap": 144.0,
       "cat": "1",
       "fed": "Fortaleza Social"
     },
     {
       "name": "SAE",
-      "capital": 94190822,
-      "req": 69990189,
-      "nicap": 135.0,
+      "capital": 99914508,
+      "req": 73592545,
+      "nicap": 136.0,
       "cat": "1",
       "fed": "Fortaleza Social"
     },
     {
       "name": "Impulso",
-      "capital": 24725099,
-      "req": 29241,
-      "nicap": 84557.0,
+      "capital": 24692414,
+      "req": 25319,
+      "nicap": 97527.0,
       "cat": "1",
       "fed": "Victoria Popular"
     },
     {
       "name": "TRAFALGAR",
-      "capital": 140093807,
-      "req": 1449781,
-      "nicap": 9663.0,
+      "capital": 132923609,
+      "req": 2664228,
+      "nicap": 4989.0,
       "cat": "1",
       "fed": "Victoria Popular"
     },
     {
       "name": "Sofiexpress",
-      "capital": 1568132670,
-      "req": 78137584,
-      "nicap": 2007.0,
+      "capital": 1498126269,
+      "req": 82283695,
+      "nicap": 1821.0,
       "cat": "1",
       "fed": "Victoria Popular"
     },
     {
       "name": "Premo",
-      "capital": 285273605,
-      "req": 47971368,
-      "nicap": 595.0,
+      "capital": 287457909,
+      "req": 44544930,
+      "nicap": 645.0,
       "cat": "1",
       "fed": "Victoria Popular"
     },
     {
       "name": "Monte de Piedad",
-      "capital": 918623884,
-      "req": 177209533,
-      "nicap": 518.0,
+      "capital": 905059753,
+      "req": 175345936,
+      "nicap": 516.0,
       "cat": "1",
       "fed": "Victoria Popular"
     },
     {
       "name": "Tamazula",
-      "capital": 72810804,
-      "req": 30194379,
-      "nicap": 241.0,
+      "capital": 73220679,
+      "req": 31192627,
+      "nicap": 235.0,
       "cat": "1",
       "fed": "Victoria Popular"
     },
     {
       "name": "Progressa",
-      "capital": 162111696,
-      "req": 97326314,
-      "nicap": 167.0,
-      "cat": "1",
-      "fed": "Victoria Popular"
-    },
-    {
-      "name": "Caja Bienestar",
-      "capital": 163425277,
-      "req": 118273967,
-      "nicap": 138.0,
+      "capital": 167731978,
+      "req": 100096646,
+      "nicap": 168.0,
       "cat": "1",
       "fed": "Victoria Popular"
     },
     {
       "name": "Multiplica",
-      "capital": 28260049,
-      "req": 20540995,
-      "nicap": 138.0,
+      "capital": 29434536,
+      "req": 20586342,
+      "nicap": 143.0,
+      "cat": "1",
+      "fed": "Victoria Popular"
+    },
+    {
+      "name": "Caja Bienestar",
+      "capital": 160706118,
+      "req": 118045618,
+      "nicap": 136.0,
       "cat": "1",
       "fed": "Victoria Popular"
     }
