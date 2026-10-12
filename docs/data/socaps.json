@@ -1,1058 +1,1058 @@
 {
-  "cifras": "2026-07-31",
-  "publicado": "Corte 14 Sep 2026",
-  "source_url": "https://portafolioinfo.cnbv.gob.mx/PortafolioInformacion/NICAP_SOCAPS_202607.pdf",
-  "index": 295.43,
+  "cifras": "2026-08-31",
+  "publicado": "Corte 12 Oct 2026",
+  "source_url": "https://portafolioinfo.cnbv.gob.mx/PortafolioInformacion/NICAP_SOCAPS_202608.pdf",
+  "index": 295.8,
   "min_regulatorio": ">100%",
   "rows": [
     {
       "name": "Seficroc",
-      "capital": 4485292,
-      "req": 121260,
-      "nicap": 3698.9,
+      "capital": 4489951,
+      "req": 132159,
+      "nicap": 3397.39,
       "cat": "1"
     },
     {
       "name": "Xochitlán",
-      "capital": 15503698,
-      "req": 1115001,
-      "nicap": 1390.46,
+      "capital": 15628334,
+      "req": 1137037,
+      "nicap": 1374.48,
       "cat": "1"
     },
     {
       "name": "Magdalena",
-      "capital": 25683291,
-      "req": 1913238,
-      "nicap": 1342.4,
+      "capital": 25513448,
+      "req": 1913794,
+      "nicap": 1333.13,
       "cat": "1"
     },
     {
       "name": "Elota",
-      "capital": 14666824,
-      "req": 1195956,
-      "nicap": 1226.37,
+      "capital": 13992869,
+      "req": 1069565,
+      "nicap": 1308.28,
       "cat": "1"
     },
     {
       "name": "Amealco",
-      "capital": 16073254,
-      "req": 1606331,
-      "nicap": 1000.62,
+      "capital": 16140674,
+      "req": 1618251,
+      "nicap": 997.41,
       "cat": "1"
     },
     {
       "name": "Ejidos de Xalisco",
-      "capital": 26976885,
-      "req": 2964127,
-      "nicap": 910.11,
+      "capital": 26667075,
+      "req": 2927492,
+      "nicap": 910.92,
       "cat": "1"
     },
     {
       "name": "Dolores Hidalgo",
-      "capital": 968430745,
-      "req": 113078051,
-      "nicap": 856.43,
+      "capital": 970088511,
+      "req": 110117775,
+      "nicap": 880.96,
       "cat": "1"
     },
     {
       "name": "Minatitlán",
-      "capital": 67923346,
-      "req": 8733867,
-      "nicap": 777.7,
+      "capital": 68107730,
+      "req": 8865123,
+      "nicap": 768.27,
       "cat": "1"
     },
     {
       "name": "San Miguel de Allende",
-      "capital": 302213851,
-      "req": 40043125,
-      "nicap": 754.72,
+      "capital": 307590191,
+      "req": 40690275,
+      "nicap": 755.93,
       "cat": "1"
     },
     {
       "name": "San José Iturbide",
-      "capital": 562622226,
-      "req": 76806313,
-      "nicap": 732.52,
-      "cat": "1"
-    },
-    {
-      "name": "Tangamandapio",
-      "capital": 81043011,
-      "req": 11538678,
-      "nicap": 702.36,
+      "capital": 569333364,
+      "req": 77438200,
+      "nicap": 735.21,
       "cat": "1"
     },
     {
       "name": "Rioverde",
-      "capital": 364258096,
-      "req": 51879086,
-      "nicap": 702.13,
+      "capital": 369366646,
+      "req": 52244811,
+      "nicap": 706.99,
+      "cat": "1"
+    },
+    {
+      "name": "Tangamandapio",
+      "capital": 81674908,
+      "req": 11748992,
+      "nicap": 695.17,
       "cat": "1"
     },
     {
       "name": "Epitacio Huerta",
-      "capital": 174768393,
-      "req": 25290576,
-      "nicap": 691.04,
+      "capital": 177052496,
+      "req": 25555764,
+      "nicap": 692.81,
       "cat": "1"
     },
     {
       "name": "Dos Ríos",
-      "capital": 30771851,
-      "req": 4727290,
-      "nicap": 650.94,
+      "capital": 30876075,
+      "req": 4800703,
+      "nicap": 643.16,
       "cat": "1"
     },
     {
       "name": "El Limón",
-      "capital": 55821985,
-      "req": 8869186,
-      "nicap": 629.39,
+      "capital": 56034638,
+      "req": 8890210,
+      "nicap": 630.3,
       "cat": "1"
     },
     {
       "name": "Purépero",
-      "capital": 187730858,
-      "req": 29907140,
-      "nicap": 627.71,
+      "capital": 188937137,
+      "req": 30459634,
+      "nicap": 620.29,
       "cat": "1"
     },
     {
       "name": "Maravatío",
-      "capital": 150401771,
-      "req": 24081257,
-      "nicap": 624.56,
+      "capital": 151584920,
+      "req": 24546929,
+      "nicap": 617.53,
       "cat": "1"
     },
     {
       "name": "Apaseo el Alto",
-      "capital": 1324113188,
-      "req": 216110687,
-      "nicap": 612.7,
-      "cat": "1"
-    },
-    {
-      "name": "Ciudad Hidalgo",
-      "capital": 56710927,
-      "req": 9494143,
-      "nicap": 597.33,
+      "capital": 1338347344,
+      "req": 217828818,
+      "nicap": 614.4,
       "cat": "1"
     },
     {
       "name": "San Gabriel",
-      "capital": 77856835,
-      "req": 13035569,
-      "nicap": 597.26,
-      "cat": "1"
-    },
-    {
-      "name": "Coopdesarrollo",
-      "capital": 1758437199,
-      "req": 294916786,
-      "nicap": 596.25,
+      "capital": 78507764,
+      "req": 13003172,
+      "nicap": 603.76,
       "cat": "1"
     },
     {
       "name": "Lachao",
-      "capital": 59870973,
-      "req": 10128237,
-      "nicap": 591.13,
+      "capital": 60643963,
+      "req": 10082804,
+      "nicap": 601.46,
       "cat": "1"
     },
     {
-      "name": "Jesús María Montaño",
-      "capital": 189531281,
-      "req": 32576645,
-      "nicap": 581.8,
+      "name": "Coopdesarrollo",
+      "capital": 1776570342,
+      "req": 299525045,
+      "nicap": 593.13,
       "cat": "1"
     },
     {
       "name": "Tepoztlán",
-      "capital": 37348852,
-      "req": 6530938,
-      "nicap": 571.88,
+      "capital": 37701366,
+      "req": 6541385,
+      "nicap": 576.35,
       "cat": "1"
     },
     {
-      "name": "El Rosario",
-      "capital": 92962533,
-      "req": 16639410,
-      "nicap": 558.69,
+      "name": "Jesús María Montaño",
+      "capital": 189278601,
+      "req": 33168096,
+      "nicap": 570.66,
       "cat": "1"
     },
     {
       "name": "Teocaltiche",
-      "capital": 59890629,
-      "req": 10766571,
-      "nicap": 556.26,
+      "capital": 60618494,
+      "req": 10708987,
+      "nicap": 566.05,
       "cat": "1"
     },
     {
-      "name": "José Carrillo García",
-      "capital": 43813216,
-      "req": 7886305,
-      "nicap": 555.56,
+      "name": "El Rosario",
+      "capital": 93431978,
+      "req": 16641609,
+      "nicap": 561.44,
       "cat": "1"
     },
     {
       "name": "San Dionisio",
-      "capital": 33193791,
-      "req": 6012892,
-      "nicap": 552.04,
+      "capital": 33402842,
+      "req": 6029812,
+      "nicap": 553.96,
       "cat": "1"
     },
     {
       "name": "San Miguel Huimilpan",
-      "capital": 80183068,
-      "req": 14725750,
-      "nicap": 544.51,
+      "capital": 80700448,
+      "req": 14663779,
+      "nicap": 550.34,
+      "cat": "1"
+    },
+    {
+      "name": "Ciudad Hidalgo",
+      "capital": 57230137,
+      "req": 10426433,
+      "nicap": 548.89,
+      "cat": "1"
+    },
+    {
+      "name": "José Carrillo García",
+      "capital": 43221681,
+      "req": 7888035,
+      "nicap": 547.94,
       "cat": "1"
     },
     {
       "name": "Nueva Atemajac",
-      "capital": 9010271,
-      "req": 1666334,
-      "nicap": 540.72,
+      "capital": 8978489,
+      "req": 1651864,
+      "nicap": 543.54,
       "cat": "1"
     },
     {
       "name": "Tepeyac",
-      "capital": 119593744,
-      "req": 22530333,
-      "nicap": 530.81,
-      "cat": "1"
-    },
-    {
-      "name": "Costa Alegre",
-      "capital": 14333257,
-      "req": 2715870,
-      "nicap": 527.76,
-      "cat": "1"
-    },
-    {
-      "name": "Ahorro Campesino",
-      "capital": 37735587,
-      "req": 7315976,
-      "nicap": 515.8,
-      "cat": "1"
-    },
-    {
-      "name": "San Rafael",
-      "capital": 1226530019,
-      "req": 240477959,
-      "nicap": 510.04,
-      "cat": "1"
-    },
-    {
-      "name": "Ten Apatz Tzotzob",
-      "capital": 55734120,
-      "req": 11032662,
-      "nicap": 505.17,
+      "capital": 120448250,
+      "req": 22795854,
+      "nicap": 528.38,
       "cat": "1"
     },
     {
       "name": "Acapiotzin",
-      "capital": 3145035,
-      "req": 638612,
-      "nicap": 492.48,
+      "capital": 3379094,
+      "req": 643030,
+      "nicap": 525.5,
       "cat": "1"
     },
     {
-      "name": "Aguascalientes",
-      "capital": 15211632,
-      "req": 3138572,
-      "nicap": 484.67,
+      "name": "Ahorro Campesino",
+      "capital": 37486937,
+      "req": 7269205,
+      "nicap": 515.7,
+      "cat": "1"
+    },
+    {
+      "name": "San Rafael",
+      "capital": 1242072922,
+      "req": 242055104,
+      "nicap": 513.14,
+      "cat": "1"
+    },
+    {
+      "name": "Ten Apatz Tzotzob",
+      "capital": 56978104,
+      "req": 11208486,
+      "nicap": 508.35,
+      "cat": "1"
+    },
+    {
+      "name": "Costa Alegre",
+      "capital": 14329185,
+      "req": 2893814,
+      "nicap": 495.17,
       "cat": "1"
     },
     {
       "name": "Los Reyes",
-      "capital": 722236873,
-      "req": 151511055,
-      "nicap": 476.69,
+      "capital": 726123303,
+      "req": 151972262,
+      "nicap": 477.8,
       "cat": "1"
     },
     {
       "name": "Comonfort",
-      "capital": 139826861,
-      "req": 29429565,
-      "nicap": 475.12,
+      "capital": 139846208,
+      "req": 29570642,
+      "nicap": 472.92,
       "cat": "1"
     },
     {
       "name": "Sistemas de Proyectos Organizados",
-      "capital": 8439326,
-      "req": 1832884,
-      "nicap": 460.44,
-      "cat": "1"
-    },
-    {
-      "name": "Real del Potosí",
-      "capital": 2606217220,
-      "req": 572822477,
-      "nicap": 454.98,
+      "capital": 8514287,
+      "req": 1828704,
+      "nicap": 465.59,
       "cat": "1"
     },
     {
       "name": "Rosario",
-      "capital": 268586564,
-      "req": 59397396,
-      "nicap": 452.19,
+      "capital": 272161561,
+      "req": 58842853,
+      "nicap": 462.52,
+      "cat": "1"
+    },
+    {
+      "name": "Aguascalientes",
+      "capital": 15451802,
+      "req": 3347479,
+      "nicap": 461.6,
+      "cat": "1"
+    },
+    {
+      "name": "Real del Potosí",
+      "capital": 2630371499,
+      "req": 578598955,
+      "nicap": 454.61,
       "cat": "1"
     },
     {
       "name": "Esperanza Indígena Zapoteca",
-      "capital": 39886679,
-      "req": 8853391,
-      "nicap": 450.52,
-      "cat": "1"
-    },
-    {
-      "name": "Sierra de San Juan",
-      "capital": 35685552,
-      "req": 7935853,
-      "nicap": 449.68,
-      "cat": "1"
-    },
-    {
-      "name": "Nuevo México",
-      "capital": 103759425,
-      "req": 23264294,
-      "nicap": 446.0,
-      "cat": "1"
-    },
-    {
-      "name": "Tala",
-      "capital": 7051083,
-      "req": 1606417,
-      "nicap": 438.93,
+      "capital": 40812472,
+      "req": 8990586,
+      "nicap": 453.95,
       "cat": "1"
     },
     {
       "name": "Atemajac",
-      "capital": 299604909,
-      "req": 68866490,
-      "nicap": 435.05,
-      "cat": "1"
-    },
-    {
-      "name": "Unión de Servicios Allende",
-      "capital": 231925264,
-      "req": 54581190,
-      "nicap": 424.92,
+      "capital": 304455223,
+      "req": 69042431,
+      "nicap": 440.97,
       "cat": "1"
     },
     {
       "name": "Tomatlán",
-      "capital": 61842877,
-      "req": 14587748,
-      "nicap": 423.94,
+      "capital": 62661669,
+      "req": 14314221,
+      "nicap": 437.76,
       "cat": "1"
     },
     {
-      "name": "Fondo Solidario",
-      "capital": 11802470,
-      "req": 2804520,
-      "nicap": 420.84,
+      "name": "Nuevo México",
+      "capital": 103991860,
+      "req": 24184432,
+      "nicap": 430.0,
+      "cat": "1"
+    },
+    {
+      "name": "Sierra de San Juan",
+      "capital": 34405677,
+      "req": 8086089,
+      "nicap": 425.49,
       "cat": "1"
     },
     {
       "name": "CSN Coop Fin",
-      "capital": 896074468,
-      "req": 213728662,
-      "nicap": 419.26,
+      "capital": 908597847,
+      "req": 215278400,
+      "nicap": 422.06,
+      "cat": "1"
+    },
+    {
+      "name": "Unión de Servicios Allende",
+      "capital": 232718450,
+      "req": 55701603,
+      "nicap": 417.79,
       "cat": "1"
     },
     {
       "name": "Progreso García",
-      "capital": 53383877,
-      "req": 12813565,
-      "nicap": 416.62,
+      "capital": 54107290,
+      "req": 13119361,
+      "nicap": 412.42,
+      "cat": "1"
+    },
+    {
+      "name": "Tala",
+      "capital": 6753630,
+      "req": 1664173,
+      "nicap": 405.82,
+      "cat": "1"
+    },
+    {
+      "name": "Fondo Solidario",
+      "capital": 11791520,
+      "req": 2913985,
+      "nicap": 404.65,
       "cat": "1"
     },
     {
       "name": "Talpense",
-      "capital": 39818284,
-      "req": 9769958,
-      "nicap": 407.56,
+      "capital": 39486480,
+      "req": 9789863,
+      "nicap": 403.34,
       "cat": "1"
     },
     {
       "name": "San Andrés Coyutla",
-      "capital": 98785746,
-      "req": 24481623,
-      "nicap": 403.51,
-      "cat": "1"
-    },
-    {
-      "name": "Tzaulán",
-      "capital": 45506811,
-      "req": 11522569,
-      "nicap": 394.94,
-      "cat": "1"
-    },
-    {
-      "name": "Itzaez",
-      "capital": 22609360,
-      "req": 5801834,
-      "nicap": 389.69,
+      "capital": 100323929,
+      "req": 24979819,
+      "nicap": 401.62,
       "cat": "1"
     },
     {
       "name": "Sakatekapan",
-      "capital": 11274608,
-      "req": 2932875,
-      "nicap": 384.42,
+      "capital": 11356911,
+      "req": 2830684,
+      "nicap": 401.21,
       "cat": "1"
     },
     {
-      "name": "La Huerta",
-      "capital": 66025694,
-      "req": 17567087,
-      "nicap": 375.85,
+      "name": "Itzaez",
+      "capital": 22665456,
+      "req": 5751795,
+      "nicap": 394.06,
+      "cat": "1"
+    },
+    {
+      "name": "Tzaulán",
+      "capital": 45956642,
+      "req": 11711936,
+      "nicap": 392.39,
       "cat": "1"
     },
     {
       "name": "Tlajomulco",
-      "capital": 252167898,
-      "req": 67133972,
-      "nicap": 375.62,
-      "cat": "1"
-    },
-    {
-      "name": "Sta. María de Guadalupe",
-      "capital": 83982461,
-      "req": 22714952,
-      "nicap": 369.72,
-      "cat": "1"
-    },
-    {
-      "name": "15 de Mayo",
-      "capital": 370234433,
-      "req": 100630359,
-      "nicap": 367.92,
-      "cat": "1"
-    },
-    {
-      "name": "Kafen Tomin",
-      "capital": 26476404,
-      "req": 7265570,
-      "nicap": 364.41,
-      "cat": "1"
-    },
-    {
-      "name": "Tamazula",
-      "capital": 754932946,
-      "req": 207552942,
-      "nicap": 363.73,
-      "cat": "1"
-    },
-    {
-      "name": "Cortázar",
-      "capital": 206434303,
-      "req": 56789124,
-      "nicap": 363.51,
-      "cat": "1"
-    },
-    {
-      "name": "José Ma. Mercado",
-      "capital": 347702390,
-      "req": 98013315,
-      "nicap": 354.75,
-      "cat": "1"
-    },
-    {
-      "name": "José Ma. Velasco",
-      "capital": 79081158,
-      "req": 22299585,
-      "nicap": 354.63,
+      "capital": 255525537,
+      "req": 67476611,
+      "nicap": 378.69,
       "cat": "1"
     },
     {
       "name": "Dr. Arroyo",
-      "capital": 63647485,
-      "req": 17972428,
-      "nicap": 354.14,
+      "capital": 64966804,
+      "req": 17375125,
+      "nicap": 373.91,
       "cat": "1"
     },
     {
-      "name": "Polotitlán",
-      "capital": 45455478,
-      "req": 12917133,
-      "nicap": 351.9,
+      "name": "15 de Mayo",
+      "capital": 373504867,
+      "req": 100113351,
+      "nicap": 373.08,
       "cat": "1"
     },
     {
-      "name": "Guachinango",
-      "capital": 232658308,
-      "req": 67462638,
-      "nicap": 344.87,
+      "name": "La Huerta",
+      "capital": 66966885,
+      "req": 18061329,
+      "nicap": 370.77,
       "cat": "1"
     },
     {
-      "name": "Progreso de Vicente Guerrero",
-      "capital": 137289140,
-      "req": 39844624,
-      "nicap": 344.56,
+      "name": "Tamazula",
+      "capital": 764579351,
+      "req": 207420257,
+      "nicap": 368.61,
       "cat": "1"
     },
     {
-      "name": "Coroneo",
-      "capital": 10516711,
-      "req": 3055005,
-      "nicap": 344.25,
+      "name": "Sta. María de Guadalupe",
+      "capital": 85038385,
+      "req": 23122951,
+      "nicap": 367.77,
       "cat": "1"
     },
     {
-      "name": "Gonzalo Vega",
-      "capital": 1461343635,
-      "req": 429439894,
-      "nicap": 340.29,
+      "name": "Cortázar",
+      "capital": 208731154,
+      "req": 57707539,
+      "nicap": 361.71,
       "cat": "1"
     },
     {
-      "name": "Yolomecatl",
-      "capital": 73840963,
-      "req": 21712067,
-      "nicap": 340.09,
+      "name": "Kafen Tomin",
+      "capital": 26435094,
+      "req": 7314220,
+      "nicap": 361.42,
       "cat": "1"
     },
     {
-      "name": "Caja de los Telefonistas",
-      "capital": 4460491582,
-      "req": 1316694619,
-      "nicap": 338.76,
+      "name": "José Ma. Velasco",
+      "capital": 79657367,
+      "req": 22129668,
+      "nicap": 359.96,
       "cat": "1"
     },
     {
       "name": "Tuxca",
-      "capital": 8146888,
-      "req": 2445776,
-      "nicap": 333.1,
+      "capital": 8495465,
+      "req": 2376460,
+      "nicap": 357.48,
+      "cat": "1"
+    },
+    {
+      "name": "José Ma. Mercado",
+      "capital": 349843543,
+      "req": 97927291,
+      "nicap": 357.25,
+      "cat": "1"
+    },
+    {
+      "name": "Polotitlán",
+      "capital": 45835906,
+      "req": 12961476,
+      "nicap": 353.63,
+      "cat": "1"
+    },
+    {
+      "name": "Caja de los Telefonistas",
+      "capital": 4474358248,
+      "req": 1303343800,
+      "nicap": 343.3,
+      "cat": "1"
+    },
+    {
+      "name": "Yolomecatl",
+      "capital": 75066209,
+      "req": 21900268,
+      "nicap": 342.76,
+      "cat": "1"
+    },
+    {
+      "name": "Progreso de Vicente Guerrero",
+      "capital": 137951437,
+      "req": 40253611,
+      "nicap": 342.71,
+      "cat": "1"
+    },
+    {
+      "name": "Gonzalo Vega",
+      "capital": 1474122754,
+      "req": 432500253,
+      "nicap": 340.84,
+      "cat": "1"
+    },
+    {
+      "name": "Guachinango",
+      "capital": 232331274,
+      "req": 68329858,
+      "nicap": 340.01,
+      "cat": "1"
+    },
+    {
+      "name": "Coroneo",
+      "capital": 10728659,
+      "req": 3158167,
+      "nicap": 339.71,
       "cat": "1"
     },
     {
       "name": "Tata Vasco",
-      "capital": 123796529,
-      "req": 38019329,
-      "nicap": 325.61,
+      "capital": 123829367,
+      "req": 37501310,
+      "nicap": 330.2,
       "cat": "1"
     },
     {
       "name": "Oblatos",
-      "capital": 761234976,
-      "req": 234515804,
-      "nicap": 324.6,
-      "cat": "1"
-    },
-    {
-      "name": "IFR Tlapanaltomin",
-      "capital": 14175762,
-      "req": 4406109,
-      "nicap": 321.73,
-      "cat": "1"
-    },
-    {
-      "name": "Chavinda",
-      "capital": 192037326,
-      "req": 60158844,
-      "nicap": 319.22,
+      "capital": 768114958,
+      "req": 236958995,
+      "nicap": 324.16,
       "cat": "1"
     },
     {
       "name": "Sagrada Familia",
-      "capital": 238266727,
-      "req": 75282496,
-      "nicap": 316.5,
+      "capital": 245387231,
+      "req": 77026226,
+      "nicap": 318.58,
+      "cat": "1"
+    },
+    {
+      "name": "Chavinda",
+      "capital": 197213287,
+      "req": 62360674,
+      "nicap": 316.25,
       "cat": "1"
     },
     {
       "name": "Regional Serrana",
-      "capital": 79349614,
-      "req": 25162267,
-      "nicap": 315.35,
-      "cat": "1"
-    },
-    {
-      "name": "Lagunillas",
-      "capital": 184250687,
-      "req": 58702406,
-      "nicap": 313.87,
+      "capital": 80545472,
+      "req": 25516637,
+      "nicap": 315.66,
       "cat": "1"
     },
     {
       "name": "Sahuayo",
-      "capital": 171023305,
-      "req": 54774613,
-      "nicap": 312.23,
+      "capital": 172552903,
+      "req": 54977118,
+      "nicap": 313.86,
+      "cat": "1"
+    },
+    {
+      "name": "Lagunillas",
+      "capital": 186353399,
+      "req": 59532434,
+      "nicap": 313.03,
       "cat": "1"
     },
     {
       "name": "Fray Juan Calero",
-      "capital": 175101880,
-      "req": 57230563,
-      "nicap": 305.96,
-      "cat": "1"
-    },
-    {
-      "name": "Chiquiliztli",
-      "capital": 62478241,
-      "req": 20421214,
-      "nicap": 305.95,
+      "capital": 178160760,
+      "req": 57960534,
+      "nicap": 307.38,
       "cat": "1"
     },
     {
       "name": "Las Huastecas",
-      "capital": 617427682,
-      "req": 203229504,
-      "nicap": 303.81,
+      "capital": 625163645,
+      "req": 204682438,
+      "nicap": 305.43,
+      "cat": "1"
+    },
+    {
+      "name": "IFR Tlapanaltomin",
+      "capital": 14408773,
+      "req": 4720736,
+      "nicap": 305.22,
+      "cat": "1"
+    },
+    {
+      "name": "Chiquiliztli",
+      "capital": 61292229,
+      "req": 20361812,
+      "nicap": 301.02,
       "cat": "1"
     },
     {
       "name": "Suljaa",
-      "capital": 53392650,
-      "req": 17857405,
-      "nicap": 298.99,
-      "cat": "1"
-    },
-    {
-      "name": "San Isidro",
-      "capital": 10832456,
-      "req": 3660520,
-      "nicap": 295.93,
-      "cat": "1"
-    },
-    {
-      "name": "San Pablo",
-      "capital": 503025609,
-      "req": 170640959,
-      "nicap": 294.79,
-      "cat": "1"
-    },
-    {
-      "name": "Nuevo Ideal",
-      "capital": 408919692,
-      "req": 140024022,
-      "nicap": 292.04,
+      "capital": 55628605,
+      "req": 18549197,
+      "nicap": 299.9,
       "cat": "1"
     },
     {
       "name": "Morelia Valladolid",
-      "capital": 2511711645,
-      "req": 861522571,
-      "nicap": 291.54,
+      "capital": 2534640532,
+      "req": 859090518,
+      "nicap": 295.04,
       "cat": "1"
     },
     {
-      "name": "Cerano",
-      "capital": 1119871392,
-      "req": 387384075,
-      "nicap": 289.09,
+      "name": "San Isidro",
+      "capital": 10783135,
+      "req": 3679263,
+      "nicap": 293.08,
       "cat": "1"
     },
     {
-      "name": "La Guadalupana",
-      "capital": 76045846,
-      "req": 26588300,
-      "nicap": 286.01,
+      "name": "San Pablo",
+      "capital": 498273512,
+      "req": 170814366,
+      "nicap": 291.7,
       "cat": "1"
     },
     {
-      "name": "Manzanillo",
-      "capital": 40314091,
-      "req": 14307533,
-      "nicap": 281.77,
-      "cat": "1"
-    },
-    {
-      "name": "San Juan Bautista",
-      "capital": 21380816,
-      "req": 7729352,
-      "nicap": 276.62,
-      "cat": "1"
-    },
-    {
-      "name": "Santiaguito",
-      "capital": 13912487,
-      "req": 5038299,
-      "nicap": 276.13,
-      "cat": "1"
-    },
-    {
-      "name": "Cristóbal Colón",
-      "capital": 1179656366,
-      "req": 428407177,
-      "nicap": 275.36,
-      "cat": "1"
-    },
-    {
-      "name": "Teocelo",
-      "capital": 22093791,
-      "req": 8058427,
-      "nicap": 274.17,
-      "cat": "1"
-    },
-    {
-      "name": "San Sebastián del Oeste",
-      "capital": 13199349,
-      "req": 4840186,
-      "nicap": 272.7,
-      "cat": "1"
-    },
-    {
-      "name": "Florencio Rosas de Querétaro",
-      "capital": 225475470,
-      "req": 82755949,
-      "nicap": 272.46,
-      "cat": "1"
-    },
-    {
-      "name": "Sur de Jalisco",
-      "capital": 74717985,
-      "req": 27520288,
-      "nicap": 271.5,
-      "cat": "1"
-    },
-    {
-      "name": "Yanga",
-      "capital": 321825515,
-      "req": 118745856,
-      "nicap": 271.02,
-      "cat": "1"
-    },
-    {
-      "name": "Sta. Margarita",
-      "capital": 38215955,
-      "req": 14104057,
-      "nicap": 270.96,
-      "cat": "1"
-    },
-    {
-      "name": "Valle de Guadalupe",
-      "capital": 128676503,
-      "req": 48502670,
-      "nicap": 265.3,
-      "cat": "1"
-    },
-    {
-      "name": "Tepic",
-      "capital": 14105823,
-      "req": 5337903,
-      "nicap": 264.26,
-      "cat": "1"
-    },
-    {
-      "name": "Tonaya",
-      "capital": 20331323,
-      "req": 7712690,
-      "nicap": 263.61,
-      "cat": "1"
-    },
-    {
-      "name": "La Providencia",
-      "capital": 556087619,
-      "req": 213530420,
-      "nicap": 260.43,
-      "cat": "1"
-    },
-    {
-      "name": "Finagam",
-      "capital": 458375851,
-      "req": 176610633,
-      "nicap": 259.54,
-      "cat": "1"
-    },
-    {
-      "name": "9 de Agosto",
-      "capital": 126773700,
-      "req": 49080907,
-      "nicap": 258.3,
-      "cat": "1"
-    },
-    {
-      "name": "Cihualpilli",
-      "capital": 189643651,
-      "req": 73506139,
-      "nicap": 258.0,
-      "cat": "1"
-    },
-    {
-      "name": "Pío Xii",
-      "capital": 372243637,
-      "req": 145556634,
-      "nicap": 255.74,
-      "cat": "1"
-    },
-    {
-      "name": "San Miguel de Cruces",
-      "capital": 31119839,
-      "req": 12187635,
-      "nicap": 255.34,
-      "cat": "1"
-    },
-    {
-      "name": "Buenos Aires",
-      "capital": 288091620,
-      "req": 114661889,
-      "nicap": 251.25,
-      "cat": "1"
-    },
-    {
-      "name": "Fesolidaridad",
-      "capital": 15793570,
-      "req": 6320659,
-      "nicap": 249.87,
-      "cat": "1"
-    },
-    {
-      "name": "Inmaculada",
-      "capital": 408493778,
-      "req": 163598430,
-      "nicap": 249.69,
+      "name": "Nuevo Ideal",
+      "capital": 419192955,
+      "req": 143853541,
+      "nicap": 291.4,
       "cat": "1"
     },
     {
       "name": "Mitras",
-      "capital": 147171422,
-      "req": 59088409,
-      "nicap": 249.07,
+      "capital": 151261081,
+      "req": 52739623,
+      "nicap": 286.81,
+      "cat": "1"
+    },
+    {
+      "name": "La Guadalupana",
+      "capital": 77676838,
+      "req": 27188160,
+      "nicap": 285.7,
+      "cat": "1"
+    },
+    {
+      "name": "Manzanillo",
+      "capital": 40476821,
+      "req": 14206239,
+      "nicap": 284.92,
+      "cat": "1"
+    },
+    {
+      "name": "Valle de Guadalupe",
+      "capital": 133797937,
+      "req": 47657782,
+      "nicap": 280.75,
+      "cat": "1"
+    },
+    {
+      "name": "Cerano",
+      "capital": 1139062966,
+      "req": 405824554,
+      "nicap": 280.68,
+      "cat": "1"
+    },
+    {
+      "name": "Cristóbal Colón",
+      "capital": 1190486934,
+      "req": 429645473,
+      "nicap": 277.09,
+      "cat": "1"
+    },
+    {
+      "name": "Yanga",
+      "capital": 326688015,
+      "req": 118151966,
+      "nicap": 276.5,
+      "cat": "1"
+    },
+    {
+      "name": "Teocelo",
+      "capital": 22357398,
+      "req": 8114763,
+      "nicap": 275.52,
+      "cat": "1"
+    },
+    {
+      "name": "San Sebastián del Oeste",
+      "capital": 13389881,
+      "req": 4913379,
+      "nicap": 272.52,
+      "cat": "1"
+    },
+    {
+      "name": "Sta. Margarita",
+      "capital": 38467818,
+      "req": 14146373,
+      "nicap": 271.93,
+      "cat": "1"
+    },
+    {
+      "name": "Tepic",
+      "capital": 14147843,
+      "req": 5216786,
+      "nicap": 271.2,
+      "cat": "1"
+    },
+    {
+      "name": "Sur de Jalisco",
+      "capital": 75313284,
+      "req": 27881195,
+      "nicap": 270.12,
+      "cat": "1"
+    },
+    {
+      "name": "San Juan Bautista",
+      "capital": 20971342,
+      "req": 7812032,
+      "nicap": 268.45,
+      "cat": "1"
+    },
+    {
+      "name": "Santiaguito",
+      "capital": 13798332,
+      "req": 5149027,
+      "nicap": 267.98,
+      "cat": "1"
+    },
+    {
+      "name": "Florencio Rosas de Querétaro",
+      "capital": 226617953,
+      "req": 85201342,
+      "nicap": 265.98,
+      "cat": "1"
+    },
+    {
+      "name": "Tonaya",
+      "capital": 20533926,
+      "req": 7745485,
+      "nicap": 265.11,
+      "cat": "1"
+    },
+    {
+      "name": "Cihualpilli",
+      "capital": 193171925,
+      "req": 73322070,
+      "nicap": 263.46,
+      "cat": "1"
+    },
+    {
+      "name": "9 de Agosto",
+      "capital": 128335006,
+      "req": 49424972,
+      "nicap": 259.66,
+      "cat": "1"
+    },
+    {
+      "name": "Finagam",
+      "capital": 460321414,
+      "req": 177380592,
+      "nicap": 259.51,
+      "cat": "1"
+    },
+    {
+      "name": "San Miguel de Cruces",
+      "capital": 31428125,
+      "req": 12157269,
+      "nicap": 258.51,
+      "cat": "1"
+    },
+    {
+      "name": "La Providencia",
+      "capital": 563216336,
+      "req": 218133648,
+      "nicap": 258.2,
+      "cat": "1"
+    },
+    {
+      "name": "Pío Xii",
+      "capital": 375147112,
+      "req": 146540471,
+      "nicap": 256.0,
+      "cat": "1"
+    },
+    {
+      "name": "Inmaculada",
+      "capital": 411140946,
+      "req": 162238974,
+      "nicap": 253.42,
+      "cat": "1"
+    },
+    {
+      "name": "Buenos Aires",
+      "capital": 289879054,
+      "req": 114666313,
+      "nicap": 252.8,
+      "cat": "1"
+    },
+    {
+      "name": "Fesolidaridad",
+      "capital": 15931464,
+      "req": 6313710,
+      "nicap": 252.33,
       "cat": "1"
     },
     {
       "name": "Villanueva",
-      "capital": 109655331,
-      "req": 44123680,
-      "nicap": 248.52,
-      "cat": "1"
-    },
-    {
-      "name": "Santa María del Oro",
-      "capital": 44889122,
-      "req": 18244906,
-      "nicap": 246.04,
+      "capital": 111696595,
+      "req": 44283772,
+      "nicap": 252.23,
       "cat": "1"
     },
     {
       "name": "San José de Casimiro",
-      "capital": 110664743,
-      "req": 45033492,
-      "nicap": 245.74,
+      "capital": 112696122,
+      "req": 45483762,
+      "nicap": 247.77,
+      "cat": "1"
+    },
+    {
+      "name": "Santa María del Oro",
+      "capital": 45140627,
+      "req": 18336936,
+      "nicap": 246.17,
       "cat": "1"
     },
     {
       "name": "Peñitas",
-      "capital": 73892314,
-      "req": 30404028,
-      "nicap": 243.03,
+      "capital": 74458230,
+      "req": 30563400,
+      "nicap": 243.62,
       "cat": "1"
     },
     {
       "name": "Zapotitlán",
-      "capital": 21105227,
-      "req": 8862026,
-      "nicap": 238.15,
+      "capital": 21118226,
+      "req": 8777820,
+      "nicap": 240.59,
       "cat": "1"
     },
     {
       "name": "Puente de Camotlán",
-      "capital": 18159313,
-      "req": 7631537,
-      "nicap": 237.95,
-      "cat": "1"
-    },
-    {
-      "name": "Santa María",
-      "capital": 6737155,
-      "req": 2845769,
-      "nicap": 236.74,
-      "cat": "1"
-    },
-    {
-      "name": "UNIFAM",
-      "capital": 36316727,
-      "req": 15430006,
-      "nicap": 235.36,
-      "cat": "1"
-    },
-    {
-      "name": "Depac Poblana",
-      "capital": 59367363,
-      "req": 25271173,
-      "nicap": 234.92,
-      "cat": "1"
-    },
-    {
-      "name": "Fama",
-      "capital": 24428605,
-      "req": 10472406,
-      "nicap": 233.27,
-      "cat": "1"
-    },
-    {
-      "name": "Acreimex",
-      "capital": 1694792091,
-      "req": 727679945,
-      "nicap": 232.9,
+      "capital": 18536912,
+      "req": 7801646,
+      "nicap": 237.6,
       "cat": "1"
     },
     {
       "name": "Arturo Márquez Aguilar",
-      "capital": 43210491,
-      "req": 18689854,
-      "nicap": 231.2,
+      "capital": 44259916,
+      "req": 18656937,
+      "nicap": 237.23,
+      "cat": "1"
+    },
+    {
+      "name": "Fama",
+      "capital": 24584222,
+      "req": 10471583,
+      "nicap": 234.77,
+      "cat": "1"
+    },
+    {
+      "name": "Depac Poblana",
+      "capital": 59390397,
+      "req": 25396472,
+      "nicap": 233.85,
+      "cat": "1"
+    },
+    {
+      "name": "Acreimex",
+      "capital": 1723157642,
+      "req": 742763428,
+      "nicap": 231.99,
+      "cat": "1"
+    },
+    {
+      "name": "UNIFAM",
+      "capital": 36217883,
+      "req": 15652106,
+      "nicap": 231.39,
+      "cat": "1"
+    },
+    {
+      "name": "Santa María",
+      "capital": 6761095,
+      "req": 2929566,
+      "nicap": 230.79,
       "cat": "1"
     },
     {
       "name": "Popular Mexicana",
-      "capital": 18242883308,
-      "req": 7909010418,
-      "nicap": 230.66,
+      "capital": 18453943376,
+      "req": 8012372083,
+      "nicap": 230.32,
       "cat": "1"
     },
     {
       "name": "Red Eco de la Montaña",
-      "capital": 102106002,
-      "req": 45720832,
-      "nicap": 223.32,
-      "cat": "1"
-    },
-    {
-      "name": "San Bernardino",
-      "capital": 9434001,
-      "req": 4289121,
-      "nicap": 219.95,
+      "capital": 103044216,
+      "req": 45880429,
+      "nicap": 224.59,
       "cat": "1"
     },
     {
       "name": "Agustín de Iturbide",
-      "capital": 334194067,
-      "req": 153868152,
-      "nicap": 217.2,
+      "capital": 341540737,
+      "req": 156041900,
+      "nicap": 218.88,
       "cat": "1"
     },
     {
-      "name": "SMG",
-      "capital": 490965459,
-      "req": 236345377,
-      "nicap": 207.73,
+      "name": "San Bernardino",
+      "capital": 9152844,
+      "req": 4232817,
+      "nicap": 216.24,
       "cat": "1"
     },
     {
       "name": "Cristo Rey",
-      "capital": 10966057,
-      "req": 5280144,
-      "nicap": 207.68,
+      "capital": 11133949,
+      "req": 5263783,
+      "nicap": 211.52,
+      "cat": "1"
+    },
+    {
+      "name": "SMG",
+      "capital": 494640690,
+      "req": 236040361,
+      "nicap": 209.56,
       "cat": "1"
     },
     {
       "name": "Hipódromo",
-      "capital": 725531454,
-      "req": 349585362,
-      "nicap": 207.54,
+      "capital": 737139189,
+      "req": 358073967,
+      "nicap": 205.86,
       "cat": "1"
     },
     {
       "name": "Cerro de la Silla",
-      "capital": 96258644,
-      "req": 46891640,
-      "nicap": 205.28,
-      "cat": "1"
-    },
-    {
-      "name": "Nueva Galicia",
-      "capital": 23081785,
-      "req": 11338600,
-      "nicap": 203.57,
-      "cat": "1"
-    },
-    {
-      "name": "La Merced",
-      "capital": 31050320,
-      "req": 15336715,
-      "nicap": 202.46,
-      "cat": "1"
-    },
-    {
-      "name": "Santuario Guadalupano",
-      "capital": 60947163,
-      "req": 30315904,
-      "nicap": 201.04,
-      "cat": "1"
-    },
-    {
-      "name": "Galeana",
-      "capital": 26675989,
-      "req": 13379713,
-      "nicap": 199.38,
-      "cat": "1"
-    },
-    {
-      "name": "Santiago Apóstol",
-      "capital": 243381731,
-      "req": 123111509,
-      "nicap": 197.69,
+      "capital": 97203061,
+      "req": 47425249,
+      "nicap": 204.96,
       "cat": "1"
     },
     {
       "name": "Cuautitlán",
-      "capital": 6443924,
-      "req": 3343921,
-      "nicap": 192.71,
+      "capital": 6814462,
+      "req": 3370648,
+      "nicap": 202.17,
       "cat": "1"
     },
     {
-      "name": "Zongolica",
-      "capital": 71317365,
-      "req": 37532773,
-      "nicap": 190.01,
+      "name": "La Merced",
+      "capital": 30529510,
+      "req": 15104988,
+      "nicap": 202.12,
+      "cat": "1"
+    },
+    {
+      "name": "Nueva Galicia",
+      "capital": 23341046,
+      "req": 11844187,
+      "nicap": 197.07,
+      "cat": "1"
+    },
+    {
+      "name": "Santiago Apóstol",
+      "capital": 242982127,
+      "req": 124685943,
+      "nicap": 194.88,
+      "cat": "1"
+    },
+    {
+      "name": "Santuario Guadalupano",
+      "capital": 59684899,
+      "req": 30682653,
+      "nicap": 194.52,
       "cat": "1"
     },
     {
       "name": "Tosepantomin",
-      "capital": 199236326,
-      "req": 106659998,
-      "nicap": 186.8,
+      "capital": 208296038,
+      "req": 108080606,
+      "nicap": 192.72,
       "cat": "1"
     },
     {
       "name": "Yuriria",
-      "capital": 8647717,
-      "req": 4673797,
-      "nicap": 185.03,
+      "capital": 8892019,
+      "req": 4633350,
+      "nicap": 191.91,
       "cat": "1"
     },
     {
-      "name": "Inmaculada Concepción",
-      "capital": 166734131,
-      "req": 92324372,
-      "nicap": 180.6,
+      "name": "Zongolica",
+      "capital": 71866847,
+      "req": 37531693,
+      "nicap": 191.48,
+      "cat": "1"
+    },
+    {
+      "name": "Galeana",
+      "capital": 24474177,
+      "req": 13252679,
+      "nicap": 184.67,
       "cat": "1"
     },
     {
       "name": "Solidaria Jala",
-      "capital": 79901963,
-      "req": 44261061,
-      "nicap": 180.52,
-      "cat": "1"
-    },
-    {
-      "name": "Tecuala",
-      "capital": 28887550,
-      "req": 16267603,
-      "nicap": 177.58,
+      "capital": 80281041,
+      "req": 44470591,
+      "nicap": 180.53,
       "cat": "1"
     },
     {
       "name": "Juventino Rosas",
-      "capital": 210124231,
-      "req": 124046082,
-      "nicap": 169.39,
+      "capital": 220883711,
+      "req": 122834351,
+      "nicap": 179.82,
+      "cat": "1"
+    },
+    {
+      "name": "Inmaculada Concepción",
+      "capital": 165074102,
+      "req": 92666909,
+      "nicap": 178.14,
+      "cat": "1"
+    },
+    {
+      "name": "Tecuala",
+      "capital": 27482198,
+      "req": 16176704,
+      "nicap": 169.89,
       "cat": "1"
     },
     {
       "name": "Tecolotlán",
-      "capital": 20264389,
-      "req": 13055402,
-      "nicap": 155.22,
+      "capital": 20570618,
+      "req": 13391662,
+      "nicap": 153.61,
       "cat": "1"
     },
     {
